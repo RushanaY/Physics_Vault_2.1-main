@@ -1,0 +1,1 @@
+if  $f^{-1}(B) \in \mathcal{A}$ for all $B \in \mathcal{B}$ (*this somehwhat looks like a bijection*)

@@ -1,0 +1,1 @@
+$$e = 1.602 \space 176 \space 634 \times 10^{-19}C$$exact 

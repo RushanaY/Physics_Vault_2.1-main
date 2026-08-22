@@ -1,0 +1,1 @@
+$$\mu^* (Y) =0$$ it holds for any set $Y \subseteq X$ 

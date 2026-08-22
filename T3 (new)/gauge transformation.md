@@ -1,0 +1,1 @@
+$$\phi \to \phi - \frac{\partial \chi}{\partial t}, \qquad \vec A \to \vec A + \vec \triangledown \chi$$

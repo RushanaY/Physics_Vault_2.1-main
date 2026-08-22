@@ -1,0 +1,1 @@
+ " a if and only if b" $$a \leftrightarrow b$$

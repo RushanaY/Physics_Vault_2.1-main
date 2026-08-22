@@ -1,0 +1,3 @@
+This is the process in which a galaxy looses gas and therefore does not have enough material  for new stars. The star formation stops and the galaxy basically dies and the galaxy also becomes an [[elliptical galaxy]]
+- ram pressure stripping/tidal stripping ; galaxy looses gas because it passes through another galaxy => becomes redder 
+- big galaxy -> big grav. potential -> hot gas has to be very hot in order to remain on the orbit around the nucleus. Hot gas is hard to form stars 

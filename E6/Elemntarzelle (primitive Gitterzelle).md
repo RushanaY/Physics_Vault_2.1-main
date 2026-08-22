@@ -1,0 +1,4 @@
+- have all the same volume 
+- can't have the symmetry of the grid -> it doesn't have to be just the small version of the big grid 
+- ==have only one grid point and also have the smallest possible volume== 
+- should fill up the whole volume,lik puzzle pieces 

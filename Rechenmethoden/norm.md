@@ -1,0 +1,1 @@
+$$|| \vec v || = \sqrt{\langle \vec v, \vec v\rangle}$$

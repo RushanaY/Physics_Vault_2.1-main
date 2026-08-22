@@ -1,0 +1,1 @@
+when a material can become a magnet by having it magnitized with a [[permanent magnet]]

@@ -1,0 +1,1 @@
+$$M^C : = \Omega/M = \{x \in M^c| x \in \Omega \land x \notin M\}$$

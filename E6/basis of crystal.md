@@ -1,0 +1,1 @@
+Struktureinheit (Atome, Atomgruppen, molecules...)

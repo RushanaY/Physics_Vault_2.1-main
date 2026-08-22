@@ -1,0 +1,1 @@
+All elements except for the main diagonal line are zero. It is useful and can even be denoted using [[eigenvalue]]: $$D = \text{diag}(\lambda_1,\lambda_2, ..., \lambda_n)$$

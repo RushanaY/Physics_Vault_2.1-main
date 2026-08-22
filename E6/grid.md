@@ -1,0 +1,1 @@
+ periodische (unendliche) Anordung von Punkte im Raum 

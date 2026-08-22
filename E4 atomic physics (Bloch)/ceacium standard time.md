@@ -1,0 +1,1 @@
+$$\Delta \nu_{Cs} = \frac{1}{9 \space 192 \space 631 \space 770 s}$$

@@ -1,0 +1,1 @@
+is a type of [[recombination]] and means, that there is no emission of photons 

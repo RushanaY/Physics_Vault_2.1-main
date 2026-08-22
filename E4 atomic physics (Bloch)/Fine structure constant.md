@@ -1,0 +1,1 @@
+$$\alpha = \frac{e^2}{4 \pi \epsilon_0 \hbar c} \approx \frac{1}{137}$$

@@ -1,0 +1,1 @@
+ $$\Delta U \sim \frac{|\vec p_1|\cdot |\vec p_2|}{r^3} \sim \frac{\alpha |\vec p_1|^2}{r^6}$$

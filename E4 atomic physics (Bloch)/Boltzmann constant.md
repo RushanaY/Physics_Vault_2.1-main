@@ -1,0 +1,1 @@
+$$k_B = 1.380 \space 649 \times 10^{-23} JK^{-1}$$exact 

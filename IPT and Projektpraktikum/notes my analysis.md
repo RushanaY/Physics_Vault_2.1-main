@@ -1,0 +1,2 @@
+As noise I use the measurement of the "silen_no_can" -> gives the surroundings, those remained the same during all the experiments 
+comparing the clean slates in maybe the loudes and therefore the most distinctive case of 255Hz,shoed that the difference is less than 5 dB. same for comparison of noise for different frequencies (90 vs 155)

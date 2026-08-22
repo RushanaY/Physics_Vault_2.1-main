@@ -1,0 +1,12 @@
+- **collision**   
+	- more star formation because of higher density on the shock front, which results in a  **[[star burst]]**  
+	-  merging types
+		-  spiral + spiral = elliptical
+		- big spiral + small galaxy = bigger bulge
+		- spiral + many small galaxies = ellipse 
+- [[Galaxy quenching]] - all the way a galaxy might loose gas 
+	- ram pressure stripping/tidal stripping ; galaxy looses gas because it passes through another galaxy => becomes redder 
+	- big galaxy -> big grav. potential -> hot gas has to be very hot in order to remain on the orbit around the nucleus. Hot gas is hard to form stars 
+- [[Rotational curves]] - a way to measure the galaxy, no matter at which angle it is positioned to the observer 
+	- the big sign of dark matter - curves of velocity to distance from nucleus are too straight 
+	- rotation curves gives mass!

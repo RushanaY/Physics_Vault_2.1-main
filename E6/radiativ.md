@@ -1,0 +1,1 @@
+Property of a [[recombination]] and means that there is **emission of photons** 

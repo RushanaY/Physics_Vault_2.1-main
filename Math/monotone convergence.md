@@ -1,0 +1,1 @@
+we have a [[measure space]]. a monotonically increasing [[sequence]] of non negative [[measurable map]]s and the propery that $x \mapsto \lim_{n \to \infty} f_n (x) = \sup_{n \in \mathbb{N}} f_n (x)$ , then $$\int_X f d \mu = \lim_{n \to \infty} \{\int_X f_n d \mu\}$$

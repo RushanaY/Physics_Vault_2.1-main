@@ -1,0 +1,3 @@
+$\hat x$ - a vector in general space. An idea of a vector. It can be put to life in any basis, but this basis has to chosen in order to "see" the vector. Other wise it exist more ethereally around.
+Once we denote it and make it "real" in some basis $\{v_j\}$ we remove the hat and it's just $x$. Putting this both together: $$\hat x= \hat v_j x^j$$ This notation shows, that the $\hat x$ can be represented with any fitting combination of basis vector and coefficients. The same vector will have different coefficients and therefore a "look" in different basis. 
+In order to change between these "real" representations in a basis, we use again a [[Matrix]], called the [[transformation matrix]] $T$ $$x' = T x$$ 

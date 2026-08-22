@@ -1,0 +1,1 @@
+when the [[measure]] $\mu (X) = 1$ 

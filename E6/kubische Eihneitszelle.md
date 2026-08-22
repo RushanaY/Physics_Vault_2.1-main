@@ -1,0 +1,1 @@
+is a small, periodically repeaded unit of a crystal. it happens to be cube shaped 

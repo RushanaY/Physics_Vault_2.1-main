@@ -1,0 +1,1 @@
+$$g = 2 + \frac{\alpha}{\pi} + O(\alpha^2) = 2.002 \space 319 \space 304 \space 361 \space 7(152)$$

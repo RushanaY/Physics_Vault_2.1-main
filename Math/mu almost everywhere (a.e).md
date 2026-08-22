@@ -1,0 +1,1 @@
+An [[expression]] $A(x)$  holds for all $x \in X$ in the measure, except for the [[null set]]   

@@ -1,0 +1,1 @@
+$$\triangle \vec E - c^2 \partial_t^2 \vec E = 0$$

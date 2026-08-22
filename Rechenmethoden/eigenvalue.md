@@ -1,0 +1,1 @@
+This is the special scalar, that is used in [[Matrix diagonalization]] because it gives the same vector when multiplied with the eigenvector and the matrix. 

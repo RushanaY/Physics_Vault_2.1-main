@@ -1,0 +1,1 @@
+If the set X is inside the [[ring]]

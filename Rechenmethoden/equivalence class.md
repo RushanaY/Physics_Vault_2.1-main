@@ -1,0 +1,1 @@
+It is a sum or a subset of all elements that is in an [[equivalence relationship]] with element $a$. To show this subset we write $$[a] \subset A$$ If we want to specify the criteria by which the relationship is characterized, it can be denoted in a **quotient**, where A is the subset and R is the criterion $$A/R=\{...\}$$

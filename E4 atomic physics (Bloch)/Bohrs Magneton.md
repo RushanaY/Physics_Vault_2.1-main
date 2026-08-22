@@ -1,0 +1,1 @@
+$$\mu_B = \frac{ e \hbar }{2 m_e}=9.274 \space 010 \space 065 \space 7(29) \times 10^{-24} J/T$$

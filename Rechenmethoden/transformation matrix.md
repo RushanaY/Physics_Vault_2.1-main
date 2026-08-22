@@ -1,0 +1,4 @@
+This matrix has all the elements needed in order to change the basis representation of any vector 
+An interesting special case, which is never the less used all the time is the change between the [[standard basis]] and any other. The standard basis vector is able to "pick out" the first/second/third column of the transformation matrix. We take a matrix that allows transformation from standard basis into a random basis $\{v_j\}$. We multiply this matrix with a vector $(1,0,0)^T$ and what we get out is the vector $v_1$. What is interesting is that what we get out is vector in $\{ e_j\}$ basis, while we multiplied with the vector in $\{v_j\}$ basis. It is important to remember the vector in it's original basis looks like $(1,0,0)^T$, while anything with coefficients is already in a different basis. 
+*again, this is a very intuitive and insider thoughts* 
+Of course the back action in form of a inverse matrix $T^{-1}$ 

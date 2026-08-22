@@ -1,0 +1,2 @@
+- rotation curves show that there must be mroe mass (velocity on the outside of the galaxy disk higher than expected)
+- mass density gets slower smaller than the surface luminosity of the disc. This can be calculated fromt he [[radial mass density profile]] formulat 

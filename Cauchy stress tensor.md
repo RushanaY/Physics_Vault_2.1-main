@@ -1,0 +1,1 @@
+$$\theta_{ij} = \epsilon_0 E_i E_j + \frac{1}{\mu_0} B_i B_j - \delta_{ij} \frac{1}{2} (\epsilon_0 |\vec E|^2 + \frac{1}{\mu_0} |\vec B|^2), \qquad i,j = 1,2,3$$

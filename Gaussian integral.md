@@ -1,0 +1,1 @@
+$$\int_{-\infty}^{\infty} e^{-x^2} \space dx = \sqrt{\pi}$$

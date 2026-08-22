@@ -1,0 +1,9 @@
+electric charge q
+electric current $\vec I$
+electric field strength $\vec E$ 
+magnetic field strength $\vec B$
+charge density $\rho (\vec r)$
+current density $\vec j (\vec r)$ 
+electric field $\vec E (\vec r)$ 
+magnetic field $\vec B (\vec r)$
+  

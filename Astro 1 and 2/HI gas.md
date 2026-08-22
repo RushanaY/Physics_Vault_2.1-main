@@ -1,0 +1,4 @@
+- promordialer wasserstoff (was there from the start of the universe)
+- formed from the recombinatin of protons and electrons when comsical microwave rays were send out 
+- probably is also the **neutraler wasserstoff** 
+- detected with the [[21 cm line]] (with frequency of $1420.4 MHz$ )

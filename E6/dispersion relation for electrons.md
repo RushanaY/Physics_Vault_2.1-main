@@ -1,0 +1,1 @@
+$$E(\vec k) = \frac{\hbar^2 k^2}{2m}$$

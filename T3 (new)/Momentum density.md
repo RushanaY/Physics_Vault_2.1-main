@@ -1,0 +1,1 @@
+$$\mathcal{P} = \epsilon_0 \vec E \times \vec B$$

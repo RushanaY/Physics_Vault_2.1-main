@@ -1,0 +1,1 @@
+small [[electron density]] -> $k_F \sim \sqrt{n_{2D}}$ => circle is fully inside the first [[brillouin zone]] => typica for [[free electrons]] gas 

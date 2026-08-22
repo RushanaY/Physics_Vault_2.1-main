@@ -1,0 +1,1 @@
+$$\rho (\vec x) = \delta (\vec x - \vec x_0) q$$

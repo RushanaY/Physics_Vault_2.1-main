@@ -1,0 +1,2 @@
+$$\partial_{\alpha} F_{\beta \gamma} + \partial_{\beta} F_{\gamma \alpha} + \partial_{\gamma} F_{\alpha \beta} = 0$$
+I guess this is used to constrain the tensor under the condition that the tensor is antisymmetrical and something else

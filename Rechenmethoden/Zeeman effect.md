@@ -1,0 +1,1 @@
+splitting of spectral lines because of an applied magnetic field

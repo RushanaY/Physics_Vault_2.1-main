@@ -1,0 +1,12 @@
+- Nachschauen um HD = Hantry Draper Katalog
+- **Einteilung**
+	- 88 Sternbilder (IAU)
+- **Bayer Bezeichnung** 
+	- $\alpha, \beta, \gamma$ + Genitiv (Alpha Cen)
+- **Flamsteed** 
+	- nach Rekataszension geordnet (61 Cygni)
+- **Variable Sterne** 
+	- von R bis Z 
+- **Eigennamen** 
+	- griechisch oder arabisch (Sirius, Aldebaran)
+- allg: Sterne können viele Namen haben 

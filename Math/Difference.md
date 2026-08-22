@@ -1,0 +1,1 @@
+$$M/N : = \{ x \in \Omega| x \in M \land x \notin N\}$$

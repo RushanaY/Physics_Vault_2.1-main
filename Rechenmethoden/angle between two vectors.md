@@ -1,0 +1,1 @@
+$$\langle \vec v, \vec w \rangle = cos (\angle (\vec v, \vec w) ) ||\vec v || \space ||\vec w ||$$

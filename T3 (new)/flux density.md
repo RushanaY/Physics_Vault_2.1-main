@@ -1,0 +1,1 @@
+$$\vec J (x) = I \vec e_{\phi} \delta (z) \delta(r - r_0)$$

@@ -1,0 +1,2 @@
+- periodicity is interrupted on the surface 
+- atoms on surfaces might be reorganised or bond to other atoms 

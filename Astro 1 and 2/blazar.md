@@ -1,0 +1,7 @@
+- are sources of gamma rays outsied of our galaxy
+- OVV: optically violent variables 
+	- the optical rays vary much more in a short period of time than a [[Quasar]] 
+	- small poralization 
+- BL Lac object 
+	- no big emissions or absorbtion lines 
+	- highly polarised 

@@ -1,0 +1,11 @@
+- assume -> electrons are in  **fermionic gas** (made up from fermions) , that can have the [[Schroedinger equation]] and [[Pauli exclustion principle]] applied to 
+- electrin conductiviy is then $$\vec J_{el} = - e \cdot n \cdot \langle \vec \nu \rangle = - e n \frac{\hbar }{m} \langle \vec k \rangle = - e \frac{1}{V} \sum_{\vec k, \sigma} \frac{\hbar \vec k}{m}$$
+- in [[thermal equilibrium]] we have $\langle \vec k \rangle =0$ 
+- for the current flow we need the density "before" and "after": $$\vec J_{el} = - \frac{en \hbar}{m} \delta \vec k$$
+	- this is achievable if there is the **change of momentum ov the wave vector** -> possible  through external force and scattering $$\frac{d \langle \vec k \rangle }{dt} = \frac{\partial \langle \vec k \rangle}{\partial t}|_{force} + \frac{\partial \langle \vec k \rangle}{\partial t}|_{scatter}$$
+		- scattering also takes into account the relaxation time $\tau$ , like in the [[Drude modell]] $$\frac{\partial \langle \vec k \rangle }{\partial t}|_{scatter} = - \frac{\delta \vec k}{\tau}$$
+	- change of the force is from the [[equation of motion]] $$\vec F = - \vec E = m \frac{\partial \langle \vec \nu \rangle}{\partial t} = \hbar \frac{\partial \langle \vec k \rangle }{\partial t}$$$$ \to \frac{\partial \langle \vec k \rangle }{\partial t}|_{force} = - \frac{e \vec E}{\hbar}$$
+	- integrated over the whole change in force we get the change in **momentum** $$\int \frac{\partial \langle \vec k \rangle }{\partial t}|{force} dt = \langle \vec k \rangle (t) - \langle \vec k \rangle^0 = \delta \vec k = - \frac{ e \vec E t}{\hbar}$$
+		- in the time $t$ the momentum of the electron gets bigger because of the force $\vec F$ by the amount of $\hbar \partial \vec k$
+		- ==this is the same, as the **shift of the [[fermi sphere]]** by the factor $\partial \vec k$ in the time $t$== 
+- ![[fermi surface#appication]]

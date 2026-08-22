@@ -1,0 +1,1 @@
+$$V (r) = - \frac{A}{r^6} + \frac{B}{r^{12}}$$![[Pasted image 20260314163916.png]]

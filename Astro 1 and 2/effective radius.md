@@ -1,0 +1,1 @@
+![[effective radius 2025-11-13 14.42.09.excalidraw]]

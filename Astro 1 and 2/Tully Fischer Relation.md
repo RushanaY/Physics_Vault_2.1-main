@@ -1,0 +1,7 @@
+- $$L \propto v_{max}^{\alpha}$$ with $\alpha \sim 4$ 
+- rotation velocity correlated to luminocity 
+- a more red filter -> smaller scattering around th TF relation  (reason: red wavelength is less prone to be absorbed) => red area gives the best and most accurate results 
+- if calibrated -> you can measure the distance to the galaxy 
+- derivation (basically the same as [[Farber Jackson relation]]):
+	- rotation curve of the flat part gives $M = \frac{v_{max}^{\alpha}R}{G}$ 
+	- assumtion of $L \propto M$ and surface luminocity ist constant $\langle I \rangle = \frac{L}{R^2}$ 

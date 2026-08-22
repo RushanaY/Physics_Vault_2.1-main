@@ -1,0 +1,1 @@
+$$\nu_G \equiv \frac{d \omega}{d q}$$

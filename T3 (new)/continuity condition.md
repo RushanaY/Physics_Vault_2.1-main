@@ -1,0 +1,1 @@
+$$\frac{\partial \rho}{\partial t} + \vec \triangledown \cdot \vec J =0$$

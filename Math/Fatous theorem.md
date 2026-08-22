@@ -1,0 +1,1 @@
+for a [[measurable space]] and non negative measurable functions $$\int_X (\lim_{n \to \infty} \inf f_n) d \mu \leq \lim_{n \to \infty} \inf {\int_X f_n d \mu}$$

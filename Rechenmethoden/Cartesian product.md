@@ -1,0 +1,1 @@
+$$F: A \times B \to C, \space (a,b) \mapsto c = F(a,b)$$

@@ -1,0 +1,1 @@
+$$|\langle \vec v, \vec w \rangle \leq ||\vec v || \space || \vec w ||$$

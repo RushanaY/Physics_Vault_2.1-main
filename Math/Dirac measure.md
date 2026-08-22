@@ -1,0 +1,2 @@
+It the volume of only one point, in the same way the [[Kronecker delta]] has the area of 1 at only one point 
+$$\delta_x : \mathcal{A} \to \{0,1\}$$$$A \mapsto \delta_x(A) := \begin{cases} 1 \text{ falls } x \in A \\ 0 \text{ falls } x \in X/A \end{cases}$$

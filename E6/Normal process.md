@@ -1,0 +1,1 @@
+in [[Three photon process]]es when $\vec G =0$ 

@@ -1,0 +1,1 @@
+$$\omega_D = \nu_{sound} \sqrt[3]{\frac{6 \pi^2 N}{V}}$$

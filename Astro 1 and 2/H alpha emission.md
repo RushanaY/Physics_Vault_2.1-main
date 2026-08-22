@@ -1,0 +1,2 @@
+- is the result of **e p recombination** (this is when the hydrogen catches a free electron and sends out a proton as a result)
+- the electron is in a higher energy state and when going back to [[ground state]] it releases a light in a very spesific wavelength and frequency. In the case of the $H_{\alpha}$ line it is the [[Balmer series]] 

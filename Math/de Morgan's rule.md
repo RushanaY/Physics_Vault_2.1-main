@@ -1,0 +1,1 @@
+$$\neg (\# x \space \phi(x)) \equiv \overline \# x \neg \phi(x)$$

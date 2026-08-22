@@ -1,0 +1,1 @@
+$$\vec \triangledown^2 = \vec \triangledown \cdot \vec \triangledown = \sum_{i=1}^3 \frac{\partial^2}{\partial x_i^2}$$

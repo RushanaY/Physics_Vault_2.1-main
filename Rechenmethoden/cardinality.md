@@ -1,0 +1,1 @@
+For a [[Set]], this would be the number of elements that are inside this set. 

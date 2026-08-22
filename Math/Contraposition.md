@@ -1,0 +1,1 @@
+it uses [[propositional logic]] and [[truth table]]s 

@@ -1,0 +1,1 @@
+$$\frac{1}{\tau} = \frac{1}{\tau_{P-P}} + \frac{1}{\tau_{def}} + ... \sim \frac{1}{l}$$

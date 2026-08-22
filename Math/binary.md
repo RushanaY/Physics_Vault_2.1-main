@@ -1,0 +1,2 @@
+- needs two [[propositional variables]]
+- those are all the [[conjuction]], [[disjunction]], [[bijunction]], [[subjunction]] 

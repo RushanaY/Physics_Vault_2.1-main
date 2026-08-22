@@ -1,0 +1,1 @@
+This is the special vector used in [[Matrix diagonalization]], that gives the same vector when multiplied with the eigenvalue and the matrix. 

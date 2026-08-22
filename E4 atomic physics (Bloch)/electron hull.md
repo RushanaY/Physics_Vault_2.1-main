@@ -1,0 +1,3 @@
+- made up from one or multiple [[electron]]s 
+- defines the size/volume of the atom
+- reacts to external forces, like light or electromagnetic fields -> this changes the form and properties of the hull

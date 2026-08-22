@@ -1,0 +1,1 @@
+$$\omega_c \equiv \frac{e}{m} B$$

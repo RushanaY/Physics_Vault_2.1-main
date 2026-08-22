@@ -1,0 +1,1 @@
+$$\hbar = \frac{h}{2 \pi} = 1.05 \space 571 \space 817 ... 10^{-34}Js$$

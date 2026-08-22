@@ -1,0 +1,1 @@
+$$\epsilon_0 = 8.854 \space 187 \space 818 \space 8(14) \times 10^{-12} C^2s^2/kg m^3$$

@@ -1,0 +1,1 @@
+$$L = \frac{\pi^2}{3} (\frac{k_B}{e})^2 \equiv \frac{\kappa}{\sigma \cdot T} = 2.44 \cdot 10^{-8} W \Omega/K^2$$

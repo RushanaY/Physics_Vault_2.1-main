@@ -1,0 +1,3 @@
+-> **Korngrenzen** (Zwillingskristall)
+- phasengrenzen 
+- the defect occurs in the the planes are staked on top of eachother (for example a plane appears twice or not in the correct order)

@@ -1,0 +1,1 @@
+$$\bigcap_{i \in I} M_i : = \{ x | \forall i \in I : x \in M_i \}$$

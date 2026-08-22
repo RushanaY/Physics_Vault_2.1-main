@@ -1,0 +1,1 @@
+It is the eigenvalue problem for the laplace operator. It represents the time independant form of the wave equation

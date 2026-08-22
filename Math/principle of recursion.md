@@ -1,0 +1,1 @@
+In the case of [[Propositional logic]] it is the way that the logical language got constructed 

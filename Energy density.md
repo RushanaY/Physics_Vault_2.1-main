@@ -1,0 +1,1 @@
+$$\mathcal{E} = \frac{1}{2} (\epsilon_0 |\vec E|^2 + \frac{1}{\mu_0|}\vec |B|^2)$$

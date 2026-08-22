@@ -1,0 +1,3 @@
+- describes the statistical distribution of particles in a medium 
+- it is used, when the mean free length of particles is big (a low number of particles in a volume)
+- usually it is enough to use the Navier stokes equation or soemthing like that 

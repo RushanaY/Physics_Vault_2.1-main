@@ -1,0 +1,1 @@
+![[basiszentriert 2025-12-19 16.42.43.excalidraw]]

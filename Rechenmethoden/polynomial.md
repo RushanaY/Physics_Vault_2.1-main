@@ -1,0 +1,1 @@
+For example $$a_1x^1 + a_2x^2 + a_3x^3+ ... a_nx^n$$

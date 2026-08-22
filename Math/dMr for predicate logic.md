@@ -1,0 +1,1 @@
+$$\neg (\# x \in D : \psi (x)) \equiv \overline \# x \in D: \neg \psi (x)$$

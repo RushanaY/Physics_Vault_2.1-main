@@ -1,0 +1,2 @@
+This is when you can separate a big matrix into for distinguishable smaller ones $$X=\begin{pmatrix} A & B \\ C & D\end{pmatrix}$$
+Seperated in multiple block, each of them can later have a matheamtical or physical significance. 

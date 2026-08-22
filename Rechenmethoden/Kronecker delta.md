@@ -1,0 +1,1 @@
+$$\ \delta_j^i = \begin{cases} 1 & \quad \text{for } j=i \\ 0 & \quad \text{for } j \neq i\\ \end{cases}$$

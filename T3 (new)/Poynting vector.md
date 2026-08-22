@@ -1,0 +1,1 @@
+$$\mathcal{S}= c^2 \mathcal{P} = \frac{1}{\mu_0} \vec E \times \vec B$$

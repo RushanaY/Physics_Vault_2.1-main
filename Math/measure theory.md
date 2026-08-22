@@ -1,0 +1,2 @@
+a way to define a space, where we can measure length, areas, volumes, depending on the given dimension 
+easy example is the sequence of reel numbers that allows to measure a length. But the measure theory allows to do that in any kind of complicated space 

@@ -1,0 +1,1 @@
+$$m_e = 9.109 \space 383 \space 713 \space 9(28) \times 10^{-31}kg$$

@@ -1,0 +1,1 @@
+$$\langle n_q \rangle = \frac{1}{exp(\frac{\hbar \omega_q}{k_B T}) -1}$$

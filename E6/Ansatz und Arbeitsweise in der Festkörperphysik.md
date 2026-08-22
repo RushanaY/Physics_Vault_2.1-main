@@ -1,0 +1,28 @@
+- Crystall structure -> no matter how you break it, the partial parts will always have the same structure 
+	- the [[macroscopic]] structure  made up from periodic [[microscopic]] structures
+	- **symemtry** in crystals can show sime microskopic structure properties 
+	- **optical properties**
+		- can also absorb different colours 
+		- double refraction
+		- no refraction (crystal lets light perfectly through)
+		- [[Halidperowskite]] 
+	- **electrical properties** -> intersting to check video
+		- crystals can have current flow, even thogh a very weak one and after putting the crystal inside of a magnetic field
+		- the moving particles are **ions** -> Ionenmobility 
+		- if a crystal doesn't have any moving ions -> are dielectric
+			- what is possibel is the slight shift if the charges because of the magnetic field
+	- **outside stress** 
+		- mechanical -> change in size and structure (elastic deformation, destruction)
+	- **thermal properties**
+		- change in size (that does depend on the symmetry)
+		- kinetic theory - temeprature depends on the velocity distribution of the atoms 
+		- solid body -> thermal fluctiations change the distance of atoms to eachother 
+			- change in size because the forces between the atoms are [[anisotrop]] 
+			- heating of the atom -> vibration of atoms -> bigger distance -> size change
+			- although mean distance stays the same and the vibration are around that value
+			- a continuum of frequencies, that even might be discrete in some cases of good symmetry and periodicallyty
+		- **phase transition** 
+			- change in the structure itself -> change in matter properties, because those might depend on the symmetry
+			- change is sudden, not continous => phase transition like [[ferromagnetism]]
+		- liquid body -> thermal fluctuation change position of atom -> [[diffusion]]
+		- approximated Auslenkung is the [[spring constant]] $$\langle u \rangle = \frac{k_B T}{m \omega} \approx 0.07 \overset{\circ}{A}$$

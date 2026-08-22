@@ -1,0 +1,31 @@
+- idea: chemical energy becomes electric 
+- akku allows the reversal of the process 
+- it is a Carnot cycle! **what is a carnot cycle sepcifically?** 
+- electrochemical unit = cell => gives the energy
+- battery can have multiple cells in parallel or in serires 
+- component
+	- anode - gives electrons; gets oxidized (**what does it mean to be oxidized?**)
+		- high coulombic output (Ah/g)
+		- good conductivity
+		- stabilty 
+	- cathode = accepts electrons; gets reduced during the process (**like in mass, density or something similar?**)
+		- efficient oxidizing agent 
+		- stable with electrolyte 
+	- electrolyte (ionic conductor) - medium for charge transfer; is bw anode and cathode -> can be water with salts, acids, alkalis,...
+		- good ionic conductivity, but NOT electrically conductive 
+		- not reactive 
+		- little change with temperature
+- problems of batteries: reactivity of cell components (-> that's what is used for the bouncing), polarization (**how?**)
+- our case - primary cell? 
+	- non rechargable 
+	- no liquid electrolyte!!!!  - dry cell 
+	- hight energy density
+- Discharge ![[Batterie theory 2025-11-22 22.14.05.excalidraw]]
+- Energy  comes from the decrease of free energy: $\Delta G^{\circ} = - n F E^{\circ}$ 
+- theoretical voltage : addition of the voltage of the two seperate reactions of the anode and cathode 
+- theoretical capacity : = numer of active material left = total quantity of electricity
+	- in ampere hours 
+	- 1 gram of material = 96.487C = 26.8 Ah 
+	- the gram is the weight of the material divided by the number of electrons (probably can be calculated from looking at how many Zn and Cl atoms are onvolved and the according number of electrons in the reaction - like 2e per pair somewhat)
+- theoretical energy
+	- in watt hours , with :**Watt hours (Wh) = voltage (V) $\times$ ampere hours (Ah)**

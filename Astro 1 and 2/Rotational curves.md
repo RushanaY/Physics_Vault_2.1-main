@@ -1,0 +1,5 @@
+- is the rotational velocity around the centre 
+- [[prediction of dark matter]], as the mass distribution of the stars does not correlate as directly with the roational velocity 
+- in [[spiral galaxie]] we can use symmety and get the [[radial mass density profile]] $$\rho (r) = \frac{1}{4 \pi e^2} \frac{dM_r}{dr} = \frac{1}{4 \pi r^2} \frac{d}{dr} (\frac{r \nu (r)^2}{G})$$
+	- where for $\nu(r) \sim const$ it comes to $\rho(r) \propto r^{-2}$ 
+	- !luminosity of the surface of the disc gets exponentially less to the outside!, which is suspicios. The mass density 

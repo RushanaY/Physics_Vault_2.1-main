@@ -1,0 +1,1 @@
+$$c = \frac{1}{\sqrt{\epsilon_0 \mu_0}}$$

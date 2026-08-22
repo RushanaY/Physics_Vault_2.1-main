@@ -1,0 +1,1 @@
+$$\neg (\#_1 x_1 ...\#_nx_n : \psi (x_1, ..., x_n)) \equiv \overline{\#}_1 x_1...\overline{\#}_n: \neg \psi (x_1,...x_n))$$

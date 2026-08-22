@@ -1,0 +1,1 @@
+This part of mathematics studies vector spaces, linear equations. Together it is a good foundation for any geometry problems or description of the space. 

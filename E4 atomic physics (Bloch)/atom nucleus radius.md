@@ -1,0 +1,1 @@
+$$r_K \approx 5 \cdot 10^{-15}m = 5fm$$

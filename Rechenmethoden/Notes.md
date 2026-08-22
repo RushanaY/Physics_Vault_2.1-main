@@ -1,0 +1,1 @@
+write down all the different coordinates (cylindrical, spherical, polar)
