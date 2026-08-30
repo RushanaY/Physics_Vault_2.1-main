@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Bachelor thesis version 0",
-      "path": "Bachelor/Bachelor thesis version 0.md"
-    },
-    {
-      "basename": "just notes 19(20).08.26",
-      "path": "T3 (new)/just notes 19(20).08.26.md"
-    },
-    {
       "basename": "Chap2",
       "path": "T3 (new)/lecture notes/Chap2.pdf"
     },
     {
-      "basename": "Advanced classical electromagnetism, R.M. Wald",
-      "path": "T3 (new)/Advanced classical electromagnetism, R.M. Wald.pdf"
+      "basename": "Problem set 3",
+      "path": "T3 (new)/Problem set 3.md"
     },
     {
-      "basename": "Summary_central_exercise",
-      "path": "T3 (new)/lecture notes/Summary_central_exercise.pdf"
+      "basename": "useful expansions",
+      "path": "T3 (new)/useful expansions.md"
+    },
+    {
+      "basename": "hyberbolic substitution",
+      "path": "T3 (new)/hyberbolic substitution.md"
+    },
+    {
+      "basename": "just notes 19(20).08.26",
+      "path": "T3 (new)/just notes 19(20).08.26.md"
     },
     {
       "basename": "Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1)",
@@ -29,12 +29,56 @@
       "path": "Bachelor/notes for plots.md"
     },
     {
-      "basename": "Master_Thesis_SD_aftercomments",
-      "path": "Bachelor/Master_Thesis_SD_aftercomments.pdf"
+      "basename": "Understanding the heat loads",
+      "path": "Bachelor/Understanding the heat loads.md"
+    },
+    {
+      "basename": "Notes Surhabis master thesis 2",
+      "path": "Bachelor/Notes Surhabis master thesis 2.md"
+    },
+    {
+      "basename": "Bachelor thesis version 0",
+      "path": "Bachelor/Bachelor thesis version 0.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "Plan for Bachelor text",
       "path": "Bachelor/Plan for Bachelor text.md"
+    },
+    {
+      "basename": "T3_ÜB_02",
+      "path": "T3 (new)/T3_ÜB_02.pdf"
+    },
+    {
+      "basename": "Microwave cavity (MW)",
+      "path": "Bachelor/Microwave cavity (MW).md"
+    },
+    {
+      "basename": "Master_Thesis_SD_aftercomments",
+      "path": "Bachelor/Master_Thesis_SD_aftercomments.pdf"
+    },
+    {
+      "basename": "flow in mln per min",
+      "path": "Bachelor/flow in mln per min.md"
+    },
+    {
+      "basename": "Chap5-5",
+      "path": "T3 (new)/lecture notes/Chap5-5.pdf"
+    },
+    {
+      "basename": "heat capacity",
+      "path": "E6/heat capacity.md"
+    },
+    {
+      "basename": "Advanced classical electromagnetism, R.M. Wald",
+      "path": "T3 (new)/Advanced classical electromagnetism, R.M. Wald.pdf"
+    },
+    {
+      "basename": "Summary_central_exercise",
+      "path": "T3 (new)/lecture notes/Summary_central_exercise.pdf"
     },
     {
       "basename": "Notes from Grinin Paper",
@@ -57,32 +101,8 @@
       "path": "Bachelor/Joris_Bachelor_thesis_OES.pdf"
     },
     {
-      "basename": "Notes Surhabis master thesis 2",
-      "path": "Notes Surhabis master thesis 2.md"
-    },
-    {
-      "basename": "Untitled 5",
-      "path": "Untitled 5.md"
-    },
-    {
-      "basename": "T3_ÜB_02",
-      "path": "T3 (new)/T3_ÜB_02.pdf"
-    },
-    {
-      "basename": "Untitled 4",
-      "path": "Untitled 4.md"
-    },
-    {
-      "basename": "Chap5-5",
-      "path": "T3 (new)/lecture notes/Chap5-5.pdf"
-    },
-    {
       "basename": "microwave cavity data",
       "path": "Bachelor/microwave cavity data.pdf"
-    },
-    {
-      "basename": "Microwave cavity (MW)",
-      "path": "Bachelor/Microwave cavity (MW).md"
     },
     {
       "basename": "Q factor",
@@ -111,10 +131,6 @@
     {
       "basename": "Notes Surabhi Master thesis",
       "path": "Bachelor/Notes Surabhi Master thesis.md"
-    },
-    {
-      "basename": "Understanding the heat loads",
-      "path": "Bachelor/Understanding the heat loads.md"
     },
     {
       "basename": "hyper fine structure",
@@ -175,30 +191,6 @@
     {
       "basename": "Chap5-4",
       "path": "T3 (new)/lecture notes/Chap5-4.pdf"
-    },
-    {
-      "basename": "Chap8-1",
-      "path": "T3 (new)/lecture notes/Chap8-1.pdf"
-    },
-    {
-      "basename": "16.06 lecture",
-      "path": "T3 (new)/16.06 lecture.md"
-    },
-    {
-      "basename": "Chap5-3",
-      "path": "T3 (new)/lecture notes/Chap5-3.pdf"
-    },
-    {
-      "basename": "Chap4-2",
-      "path": "T3 (new)/lecture notes/Chap4-2.pdf"
-    },
-    {
-      "basename": "Chap4-1",
-      "path": "T3 (new)/lecture notes/Chap4-1.pdf"
-    },
-    {
-      "basename": "Chap3_handwritten",
-      "path": "T3 (new)/lecture notes/Chap3_handwritten.pdf"
     }
   ],
   "omittedPaths": [],

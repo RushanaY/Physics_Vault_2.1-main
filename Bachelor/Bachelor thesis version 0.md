@@ -17,4 +17,13 @@
 - our measurements and the interpretation of those  
 - comparison with the model  
 
+we want to show, that our signal actually comes form atomic hydrogen
+therefore it is very good to look at difference between the two wires 
+
+what can we use for analyzing stuff:
+- change in background pressure of main chamber -> looks generally good 
+- change in nozzle temperature -> could be cleaner 
+
+at 15mu m -> ;
+
 # 4. Conclusion 

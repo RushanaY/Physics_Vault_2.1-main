@@ -62,4 +62,7 @@ Solution: $$\phi(\vec x) = \int d^3 x' G_N (\vec x, \vec x') \rho(\vec x') + \ep
 - the field not having a derivative in the Poisson equation implies, that **field has to be continuous along the whole surface** 
 - using the **gauge freedom** we can shift the electrical potential $\phi$ 
 - [[Greens theorem]] $$\int_{\partial V} d^2 x \hat n \cdot (\phi_1 \vec \triangledown \phi_2 - \phi_2 \vec \triangledown \phi_1) = - \frac{1}{\epsilon_0} \int_V d^3 x (\phi_1 S_2 - \phi_2 S_1)$$
-- 
+
+
+# related questions from homework sheets 
+## [[Problem set 3]] 

@@ -1,3 +1,5 @@
+```table-of-contents
+```
 General approach 
 $$\sum_i dQ_i=0$$
 $$\Rightarrow \qquad T''(x) + a T(x) + b =0$$
@@ -65,4 +67,15 @@ from Mattesian law we now $$\rho_e (T) \approx \rho_{res} + \rho_{ph} (T)$$
 #   Upgrade ideas 
 -> make coeffcients dependant on $x$ because the flux density is position dependant 
 	=> the flux of hydrogen onto the wire is more in the shape of a cosine, instead of the assumed homogenic version 
--> make the material conductivity temperature dependant, as it might change with big heat jumps (maybe not as relevant for the 15$\mu m$ , but may become a bigger problem for $5 \mu m$) 
+-> make the material conductivity temperature dependant, as it might change with big heat jumps (maybe not as relevant for the 15$\mu m$ , but may become a bigger problem for $5 \mu m$)
+
+
+
+# In total:
+## General DEQ
+$$T'' = A \space T(x) + B\space T(x)^4 + C$$
+## All heat loads explicitly
+
+$$\sum_i Q_i = Q_{conduction} + Q_{current} + + Q_{beam \space gas} + Q_{recomb} + Q_{bkg \space gas} + Q_{radiative}=0$$
+$$\kappa T'' \cdot A_{cs} + I^2_{probe} (\frac{\rho_0 (1 +\alpha_R (T(x) - T_{ref})}{A_{cs}}) + (1 -\alpha) \phi_{H2} d \frac{5 k_B}{2} (T(x) - T_{H2} ) + 2 \alpha \phi_{H2} d \frac{3 k_B}{2} (T(x) - T_{H2})+ \eta_{recomb}E_{rec} 2 \alpha \phi_{H_2} d + (- \beta_{H2} \pi d C_{H2} \phi(P_{bkg} , T_{chamber}) (T(x) - T_{chamber}))+ \pi d \sigma \epsilon_W \epsilon_{Cu} T^4_{nozzle} - \pi 
+$$
