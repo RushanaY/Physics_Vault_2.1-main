@@ -1,1 +1,0 @@
-$$m_n \approx 1838.68 \space m_e = 1.672 \space 621 \space 925 \space 95(52) \times 10^{-27}kg$$

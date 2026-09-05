@@ -1,12 +1,10 @@
 ```table-of-contents
 ```
 
-<mark style="background: #FFB86CA6;">ToDo/to look up </mark>
 <mark style="background: #ADCCFFA6;">my own comments</mark> 
 
 hydrogen -> make experiments to prove fundamental constants from QED 
 -> measure transition frequency (energy)
-<mark style="background: #FFB86CA6;">**go to E4 script form bloch to remember the terms**</mark>
 -> important constants is [[Rydeberg constant]] and [[proton radius]] (theses are fundemental and are calculated precisely in QED)
 1S-3S transition 
 
@@ -30,7 +28,7 @@ me and Malte </mark>
 - hydrogen atom = 2 level system 
 - spectroscopy data from hydrogen helps develop quantum mechanics
 ## History
-- Angstrom (just mentioned,<mark style="background: #FFB86CA6;"> what did he actually do for the hydrogen?</mark>)
+- Angstrom (just mentioned)
 - Balmer -> formular for discrete transitions
 - Balmer's formulars improved by Rydberg $$\frac{1}{\lambda} = R_{\infty} ( \frac{1}{n_1^2} - \frac{1}{n_2^2})$$
 - Bohr -> explains experiments with theory (structure of atom) -> Quantization
@@ -41,17 +39,15 @@ me and Malte </mark>
 - Bohr's quantization-> Schrodinger's matter wave theory 
 	- Balmer's equations with principle quantum number $n$ + angular momentum $l$ and $m$ 
 - Dirac -> electron spin orbit coupling ->  fine structure 
-- Lamb Shift shift + hyper fine structure (<mark style="background: #FFB86CA6;">by whom?</mark>) -> energy levels (1.2 equation) of Quantum electrodynamics => cool picture with the energy levels and the energy level splitting (from Schrodinger to hyper fine structure)
-		<mark style="background: #FFB86CA6;">look up the simple theory from Bloch just for the general understanding and the big picture</mark>
+- Lamb Shift shift + hyper fine structure  -> energy levels (1.2 equation) of Quantum electrodynamics => cool picture with the energy levels and the energy level splitting (from Schrodinger to hyper fine structure)
 
 ### modern development and link to MPQ lab - proton radius puzzle
 - measure 2 transitions in atomic hydrogen => Rydberg constant and proton charge radius 
 	- 1S-2S  -> best known transition frequency
 - a third transition -> test QED 
-- compare the radius from different transitions (muonic hydrogen, 1S-3S , 2S-6P,2S-4P and so on) = **proton radius puzzle** 
-		- -> GOAL: get as close as possible to the muonic value, as it's one with the smallest uncertainty (<mark style="background: #FFB86CA6;">why? is that even comparable? do they want to get closer to that value? LKB and CODATA 2014 are miles away from that</mark>)
-- <mark style="background: #FFB86CA6;">what is sigma in the uncertainty way?</mark>
-- latest update: 2S-6P transition => solves puzzle and proves QED again 
+- compare the radius from different transitions (muonic hydrogen, 1S-3S , 2S-6P,2S-4P and so on) = **proton radius puzzle** -> <mark style="background: #ADCCFFA6;">get as close as possible to the nuonic value and wondering why not every value is close to them</mark>
+		- -> GOAL: get as close as possible to the muonic value, as it's one with the smallest uncertainty
+- latest update: 2S-6P transition => solves puzzle and proves QED again -> 
 #### improvement by 1S-3S: 
 - test out ways to make a new measurement even more precise 
 

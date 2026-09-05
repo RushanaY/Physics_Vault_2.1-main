@@ -1,1 +1,0 @@
-when the [[measure]] is $\mu (X) < \infty$ 
