@@ -1,0 +1,5 @@
+- made up from Protons and neutrons 
+- has charge distributions with [[angular momentum]] and [[magnetic moment]]
+- makes up the majority of the weight of the atom, but is at the same time vey smll 
+- it makes the electromagnetic trap for electrons 
+- defines the name of the atom 

@@ -54,7 +54,7 @@ $$\omega^2 = \frac{4}{M} \sum_p C_p \sin^2 (\frac{pqa}{2})$$
 
 
 # Oscillation energy
-Given:  [[Hamilto operator]] for harmonic oscillation $$H = \frac{\vec p2}{2m} + \frac{1}{2} m \omega^2 x^2$$
+Given:  [[Hamilton operator]] for harmonic oscillation $$H = \frac{\vec p2}{2m} + \frac{1}{2} m \omega^2 x^2$$
 - with eigenvalues $$E_n = \hbar \omega (n + \frac{1}{2})$$
 - for N atoms -> 3N independand oscillations 
 - boundary conditions: $n=0 (x=0)$ -> $exp(iqNa) = exp(0)=1$ 

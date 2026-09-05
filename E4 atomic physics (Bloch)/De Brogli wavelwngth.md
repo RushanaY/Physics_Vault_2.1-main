@@ -1,1 +1,0 @@
-$$\lambda_{dB} = \frac{h}{ m_{at} \nu}$$

@@ -1,3 +1,6 @@
+```table-of-contents
+```
+
 # 1.1. the atom structure
 
 ## 1.1.1. the nucleus 
@@ -69,16 +72,16 @@ Considering the **relativistic** effect -> electron is actually that fast
 
 ### [[Spin orbit coupling]] (in many body stystem)
 = relativistic effect 
-Energy of a magneric dipol we have $$E = - \vec  \mu \cdot \vec B$$
+Energy of a magnetic dipole we have $$E = - \vec  \mu \cdot \vec B$$
 with $\vec \mu$ being the [[magnetic moment]]
-electron has spin and therfore a magnetic moment of the [[Bohrs Magneton]] 
+electron has spin and therefore a magnetic moment of the [[Bohrs Magneton]] 
 leads to the splitting of the energy niveaus 
 
 
 ### [[hyper fine structure]] 
 the [[nucleus]] also has [[magnetic moment]] $\mu_H$ 
 electron orbits around the nucleus and induces a magnetic field. The magnetic moment of the nucleus itneracts with this magnetif field and it leads to more **splitting of energy nivaus** 
-$$E_{hfc} = - \mu)H \cdot B_{el} = - \frac{1}{1836} \mu_B B_{el}$$
+$$E_{hfc} = - \mu_n \cdot B_{el} = - \frac{1}{1836} \mu_B B_{el}$$
 
 
 

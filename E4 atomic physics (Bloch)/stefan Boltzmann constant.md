@@ -1,0 +1,1 @@
+$$\sigma = \frac{2 \pi^2 k_B^4}{120 c_0^2 \hbar^3} \approx 5.67.. \times 10^{-8} W/m^2/K^4$$
