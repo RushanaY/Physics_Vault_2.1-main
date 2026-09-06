@@ -1,8 +1,11 @@
+```table-of-contents
+```
+
 # 2.1. 
-looking at atom, without thinking about the deeper structure, is a particle => an atom with mass $m_{at}$ and velocity $\nu$, can be also a wave of [[De Brogli wavelwngth]] 
+looking at atom, without thinking about the deeper structure, is a particle => an atom with mass $m_{at}$ and velocity $\nu$, can be also a wave of [[De Brogli wavelength]] 
 This wave can be described using the knowledge from Quantum mechanics 
 - movement in space (with no potential) with a kinetic energy has the wave $$\psi (\vec r , t) \approx e^{i (kr - \omega t)}$$
-	->  ==**atom completely delocolized in space** ==
+	->  **atom completely delocalized in space**
 - Energy of this wave/state $$E = \hbar \omega (k) = \frac{\hbar^2 k^2}{2m_{at}}$$
 - expectation value of the momentum $$\langle \hat p \rangle = \int \psi^* \frac{\hbar}{i} \triangledown \psi d^3 r = \hbar \vec k$$
 - for a general [[wave function]] the expectation value of the momentum is $$\langle \hat p \rangle = \int (\hbar \triangledown \phi ) | \psi (\vec r, t) |^2 d^3 r$$

@@ -5,6 +5,10 @@
 
 hydrogen -> make experiments to prove fundamental constants from QED 
 -> measure transition frequency (energy)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 36614a61b242d6611b86d01a3191a491ec5cda3b
 -> important constants is [[Rydeberg constant]] and [[proton radius]] (theses are fundemental and are calculated precisely in QED)
 1S-3S transition 
 
@@ -28,7 +32,10 @@ me and Malte </mark>
 - hydrogen atom = 2 level system 
 - spectroscopy data from hydrogen helps develop quantum mechanics
 ## History
+<<<<<<< HEAD
 - Angstrom (just mentioned)
+=======
+>>>>>>> 36614a61b242d6611b86d01a3191a491ec5cda3b
 - Balmer -> formular for discrete transitions
 - Balmer's formulars improved by Rydberg $$\frac{1}{\lambda} = R_{\infty} ( \frac{1}{n_1^2} - \frac{1}{n_2^2})$$
 - Bohr -> explains experiments with theory (structure of atom) -> Quantization
@@ -39,7 +46,11 @@ me and Malte </mark>
 - Bohr's quantization-> Schrodinger's matter wave theory 
 	- Balmer's equations with principle quantum number $n$ + angular momentum $l$ and $m$ 
 - Dirac -> electron spin orbit coupling ->  fine structure 
+<<<<<<< HEAD
 - Lamb Shift shift + hyper fine structure  -> energy levels (1.2 equation) of Quantum electrodynamics => cool picture with the energy levels and the energy level splitting (from Schrodinger to hyper fine structure)
+=======
+- Lamb Shift shift + hyper fine structure-> energy levels (1.2 equation) of Quantum electrodynamics => cool picture with the energy levels and the energy level splitting (from Schrodinger to hyper fine structure)
+>>>>>>> 36614a61b242d6611b86d01a3191a491ec5cda3b
 
 ### modern development and link to MPQ lab - proton radius puzzle
 - measure 2 transitions in atomic hydrogen => Rydberg constant and proton charge radius 

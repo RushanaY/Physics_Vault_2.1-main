@@ -1,0 +1,1 @@
+$$a_0 = \frac{\hbar}{m_e c_0 \alpha} \approx 5.291.. \times 10^{-11}m$$

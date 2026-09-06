@@ -6,6 +6,7 @@
       {
         "id": "920a6c6d5647c194",
         "type": "tabs",
+        "dimension": 72.06823027718549,
         "children": [
           {
             "id": "3b8234cbdb52c6c1",
@@ -124,42 +125,50 @@
               "icon": "lucide-file",
               "title": "Bachelor thesis version 0"
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "89d9bdaef65eb31d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1e65981d7f5652da",
+            "id": "df7fd67e007142dd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "T3 (new)/lecture notes/Chap2.pdf"
+                "file": "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Chap2"
+              "title": "A. Winkler Interaction of atomic hydrogen with metal surfaces"
             }
           },
           {
-            "id": "c9489f970da0e06d",
+            "id": "68b41dd4c6ec7b03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "T3 (new)/Problem set 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Problem set 3"
+              "icon": "lucide-file-text",
+              "title": "Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
+      },
+      {
+        "id": "89d9bdaef65eb31d",
+        "type": "tabs",
+        "dimension": 27.931769722814497,
+        "children": [
+          {
+            "id": "7d334e6dee69d2a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "acef0143b858f7d0",
@@ -397,56 +407,101 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "87cf2599fa5da0b2",
+        "type": "window",
+        "children": [
+          {
+            "id": "b61b258c4933d896",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "25aa5be4aaddc25d",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Atomphysik-Skript (1) (1)"
+                }
+              },
+              {
+                "id": "e5a8939bc23568f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Kap.4 Light atom interaction.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Kap.4 Light atom interaction"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1518,
+        "y": -661,
+        "width": 380,
+        "height": 308,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "18ea73c0c6efe5fb",
+  "active": "68b41dd4c6ec7b03",
   "lastOpenFiles": [
-    "T3 (new)/Problem set 3.md",
-    "T3 (new)/useful expansions.md",
-    "T3 (new)/hyberbolic substitution.md",
-    "T3 (new)/just notes 19(20).08.26.md",
-    "Bachelor/Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1).pdf",
-    "T3 (new)/lecture notes/Chap2.pdf",
-    "Bachelor/notes for plots.md",
-    "Bachelor/Understanding the heat loads.md",
+    "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf",
+    "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf",
+    "Bachelor/2020-07_Q1_Designing resonance microwave cavities_IEEE Transactions on Instruments and Measurements.pdf",
+    "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf",
+    "Bachelor/Quantenelektrodynamik_ Rekord‐QED‐Test dank gelöstem Protonenradius‐Rätsel.mhtml",
     "Bachelor/Notes Surhabis master thesis 2.md",
+    "T3 (new)/lecture notes/Chap2.pdf",
+    "Rechenmethoden/Vector identities.md",
+    "Rechenmethoden/useful trigonometric identities.md",
+    "Kap.4 Light atom interaction.md",
+    "E4 atomic physics (Bloch)/dipol approximation.md",
+    "E4 atomic physics (Bloch)/Pictures/Pasted image 20260905161006.png",
+    "E4 atomic physics (Bloch)/dipol moment.md",
+    "Bachelor/Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1).pdf",
+    "Bachelor/A Two-Coordinate Detector for a Beam.pdf",
+    "Bachelor/Master_Thesis_SD_aftercomments.pdf",
+    "Pictures/Pasted image 20260830154544.png",
+    "Hamilton operator.md",
+    "E4 atomic physics (Bloch)/E4  Guide.md",
+    "E4 atomic physics (Bloch)/Kap.3 Hydrogen atom Part 1.md",
+    "E4 atomic physics (Bloch)/Kap.2 Matter waves.md",
+    "E4 atomic physics (Bloch)/De Brogli wavelength.md",
+    "E4 atomic physics (Bloch)/Kap.1 The Atom, introduction.md",
+    "E4 atomic physics (Bloch)/principle quantum number.md",
+    "E4 atomic physics (Bloch)/constants.md",
+    "E4 atomic physics (Bloch)/stefan Boltzmann constant.md",
+    "E4 atomic physics (Bloch)/Bohr radius.md",
+    "E4 atomic physics (Bloch)/nucleus.md",
+    "angular momentum.md",
+    "Rechenmethoden/hyberbolic substitution.md",
+    "Rechenmethoden/useful expansions.md",
+    "E4 atomic physics (Bloch)/Fine structure constant.md",
+    "E4 atomic physics (Bloch)/azimuthal quantum number (Drehimpulsquantenzahl).md",
+    "Bachelor/Bachelor thesis version 0.md",
+    "T3 (new)/Problem set 3.md",
+    "T3 (new)/just notes 19(20).08.26.md",
     "Bachelor/Pictures/Pasted image 20260827115849.png",
     "Bachelor/Pictures/Pasted image 20260827115830.png",
     "Bachelor/Pictures/Pasted image 20260827115632.png",
     "Bachelor/Pictures/Pasted image 20260827115431.png",
     "Bachelor/Pictures/Pasted image 20260827110504.png",
     "Bachelor/Pictures/Pasted image 20260827110144.png",
-    "Bachelor/Bachelor thesis version 0.md",
-    "Untitled 5.md",
-    "Untitled 6.md",
-    "Untitled 4.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Bachelor/Plan for Bachelor text.md",
     "T3 (new)/T3_ÜB_02.pdf",
-    "Bachelor/Microwave cavity (MW).md",
-    "Bachelor/Master_Thesis_SD_aftercomments.pdf",
     "Python/resistance_jump_model.py",
-    "Bachelor/flow in mln per min.md",
-    "T3 (new)/lecture notes/Chap5-5.pdf",
-    "E6/heat capacity.md",
-    "T3 (new)/Advanced classical electromagnetism, R.M. Wald.pdf",
-    "T3 (new)/lecture notes/Summary_central_exercise.pdf",
     "Bachelor/Pictures/Pasted image 20260819231630.png",
-    "Bachelor/Pictures/Pasted image 20260819231325.png",
-    "Bachelor/Pictures/Pasted image 20260819231323.png",
-    "Bachelor/Pictures/Pasted image 20260819225431.png",
-    "Bachelor/Notes from Grinin Paper.md",
-    "Bachelor/CAVITY TUNING EXPERIMENTS WITH THE JYFL 14 GHz ECRIS ∗.pdf",
-    "Bachelor/Tscharn-BA-Measurements_on_the_Cryogenic_Hydrogen_Beam.pdf",
-    "T3 (new)/Q factor.md",
-    "Bachelor/magnetron.md",
-    "microwave.md",
-    "Bachelor/Notes Surabhi Master thesis.md",
-    "E4 atomic physics (Bloch)/hyper fine structure.md",
-    "atom.md",
-    "Lamb Shift.md"
+    "Bachelor/Pictures/Pasted image 20260819231325.png"
   ]
 }

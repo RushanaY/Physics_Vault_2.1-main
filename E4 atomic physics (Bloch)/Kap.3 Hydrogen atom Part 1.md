@@ -1,3 +1,6 @@
+```table-of-contents
+```
+
 # Modell 
 ![[Pasted image 20260225181009.jpg]]
 ### non relativistic Hamilton operator for H atom in CMC
@@ -13,7 +16,7 @@ $$ H = \frac{\vec p^2_e}{2m_e} + \frac{\vec p^2_K}{2m_K} + V(|\vec r_e - \vec r_
 ### non relativistic Hamilton in spherical coordinates
 Transforming into spherical coordinates and solving it, gives two differential equations:
 	1. **Winkelanteil**$$L^2 Y = \hbar^2 const Y = \hbar l(l+1) $$
-		==Solution: $$Y_{lm}(\Theta, \Phi)$$==
+		Solution: $$Y_{lm}(\Theta, \Phi)$$
 		this is an **eigenfunction**, also called the [[Spherical harmonics function]]:  $$L^2 Y_{lm} (\Theta, \Phi) = \hbar^2 l(l+1) Y_{lm} (\Theta, \Phi)$$$$L_z Y_{lm}(\Theta, \Phi) \hbar m_l Y_{lm}(\Theta, \Phi)$$
 			where $m_l = -l, ...,0,...l$ 
 
@@ -29,7 +32,7 @@ Transforming into spherical coordinates and solving it, gives two differential e
 		- we get the [[Eigenenergy]]: $$E_n = - \frac{1}{2} \mu c^2 \alpha^2 \frac{1}{n^2}$$
 			- only descreet energies possible 
 ![[Pasted image 20260225181158.jpg]]
-## 3.0.2. Radial wave function
+## Radial wave function
 ##  radial position probability
 $$W(r)dr = e^{-2r/a_0} r^2 dr$$
 - has maxima at $r = \frac{\hbar}{\mu c \alpha} = 0.52197...\cdot 10^{-10}m = a_0$ 
@@ -54,7 +57,7 @@ $$D_{nl} (r) dr = r^2 |R_{nl} (r)|^2 dr$$
 	- has $n-1$ angular moment states 
 
 
-# [[angular momentum operator]] 
+# 3.3. [[angular momentum operator]] 
 ### Parity of eigenfunction
 $$\hat P \{R_{nl}(r) Y_{lm} (\theta, \phi)\} = R_{nl}(r) (-1)^l Y_{lm} (\theta, \phi)$$
 ### Stern Gerlach experiment 
