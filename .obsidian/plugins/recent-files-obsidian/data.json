@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled 1",
+      "path": "T3 (new)/Untitled 1.md"
+    },
+    {
+      "basename": "laser pumping",
+      "path": "laser pumping.md"
+    },
+    {
+      "basename": "gain medium",
+      "path": "gain medium.md"
+    },
+    {
+      "basename": "Q factor",
+      "path": "T3 (new)/Q factor.md"
+    },
+    {
+      "basename": "stimulated emission",
+      "path": "stimulated emission.md"
+    },
+    {
+      "basename": "population inversion",
+      "path": "population inversion.md"
+    },
+    {
+      "basename": "optical cavity",
+      "path": "optical cavity.md"
+    },
+    {
       "basename": "Vitaly's newest QED update on the proton puzzle",
       "path": "Bachelor/Vitaly's newest QED update on the proton puzzle.md"
     },
@@ -109,10 +137,6 @@
       "path": "Bachelor/microwave cavity data.pdf"
     },
     {
-      "basename": "Q factor",
-      "path": "T3 (new)/Q factor.md"
-    },
-    {
       "basename": "Chap5-2",
       "path": "T3 (new)/lecture notes/Chap5-2.pdf"
     },
@@ -175,22 +199,6 @@
     {
       "basename": "ASCII",
       "path": "Bachelor/ASCII.md"
-    },
-    {
-      "basename": "A. Winkler Interaction of atomic hydrogen with metal surfaces",
-      "path": "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf"
-    },
-    {
-      "basename": "A Two-Coordinate Detector for a Beam",
-      "path": "Bachelor/A Two-Coordinate Detector for a Beam.pdf"
-    },
-    {
-      "basename": "Chap6",
-      "path": "T3 (new)/lecture notes/Chap6.pdf"
-    },
-    {
-      "basename": "Chap5-4",
-      "path": "T3 (new)/lecture notes/Chap5-4.pdf"
     }
   ],
   "omittedPaths": [],

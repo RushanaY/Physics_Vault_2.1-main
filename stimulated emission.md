@@ -1,0 +1,1 @@
+photon comes into [[gain medium]] and interacts with an excited electron of an atom and makes it drop to a lower level 
