@@ -6,7 +6,6 @@
       {
         "id": "920a6c6d5647c194",
         "type": "tabs",
-        "dimension": 72.06823027718549,
         "children": [
           {
             "id": "3b8234cbdb52c6c1",
@@ -152,23 +151,6 @@
           }
         ],
         "currentTab": 10
-      },
-      {
-        "id": "89d9bdaef65eb31d",
-        "type": "tabs",
-        "dimension": 27.931769722814497,
-        "children": [
-          {
-            "id": "7d334e6dee69d2a6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -457,6 +439,9 @@
   },
   "active": "68b41dd4c6ec7b03",
   "lastOpenFiles": [
+    "standard deviation.md",
+    "Pictures/Pasted image 20260905204053.jpg",
+    "Bachelor/Vitaly's newest QED update on the proton puzzle.md",
     "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf",
     "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf",
     "Bachelor/2020-07_Q1_Designing resonance microwave cavities_IEEE Transactions on Instruments and Measurements.pdf",
@@ -492,7 +477,6 @@
     "E4 atomic physics (Bloch)/azimuthal quantum number (Drehimpulsquantenzahl).md",
     "Bachelor/Bachelor thesis version 0.md",
     "T3 (new)/Problem set 3.md",
-    "T3 (new)/just notes 19(20).08.26.md",
     "Bachelor/Pictures/Pasted image 20260827115849.png",
     "Bachelor/Pictures/Pasted image 20260827115830.png",
     "Bachelor/Pictures/Pasted image 20260827115632.png",
@@ -500,8 +484,6 @@
     "Bachelor/Pictures/Pasted image 20260827110504.png",
     "Bachelor/Pictures/Pasted image 20260827110144.png",
     "T3 (new)/T3_ÜB_02.pdf",
-    "Python/resistance_jump_model.py",
-    "Bachelor/Pictures/Pasted image 20260819231630.png",
-    "Bachelor/Pictures/Pasted image 20260819231325.png"
+    "Bachelor/Pictures/Pasted image 20260819231630.png"
   ]
 }
