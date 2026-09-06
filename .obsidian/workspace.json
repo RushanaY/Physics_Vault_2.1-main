@@ -148,9 +148,21 @@
               "icon": "lucide-file-text",
               "title": "Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel"
             }
+          },
+          {
+            "id": "4d8891b5c8240ac9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "T3 (new)/lecture notes/Chap3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chap3"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -219,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 264.5
   },
   "right": {
     "id": "acef0143b858f7d0",
@@ -437,18 +448,23 @@
       }
     ]
   },
-  "active": "68b41dd4c6ec7b03",
+  "active": "4d8891b5c8240ac9",
   "lastOpenFiles": [
+    "T3 (new)/lecture notes/Chap2.pdf",
+    "T3 (new)/lecture notes/Chap1.pdf",
+    "T3 (new)/Chapter 1 Introduction.md",
+    "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf",
+    "Untitled 1.md",
+    "Bachelor/Bachelor thesis version 0.md",
+    "Bachelor/Joris_Bachelor_thesis_OES.pdf",
     "standard deviation.md",
     "Pictures/Pasted image 20260905204053.jpg",
     "Bachelor/Vitaly's newest QED update on the proton puzzle.md",
     "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf",
-    "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf",
     "Bachelor/2020-07_Q1_Designing resonance microwave cavities_IEEE Transactions on Instruments and Measurements.pdf",
     "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf",
     "Bachelor/Quantenelektrodynamik_ Rekord‐QED‐Test dank gelöstem Protonenradius‐Rätsel.mhtml",
     "Bachelor/Notes Surhabis master thesis 2.md",
-    "T3 (new)/lecture notes/Chap2.pdf",
     "Rechenmethoden/Vector identities.md",
     "Rechenmethoden/useful trigonometric identities.md",
     "Kap.4 Light atom interaction.md",
@@ -473,17 +489,12 @@
     "angular momentum.md",
     "Rechenmethoden/hyberbolic substitution.md",
     "Rechenmethoden/useful expansions.md",
-    "E4 atomic physics (Bloch)/Fine structure constant.md",
-    "E4 atomic physics (Bloch)/azimuthal quantum number (Drehimpulsquantenzahl).md",
-    "Bachelor/Bachelor thesis version 0.md",
-    "T3 (new)/Problem set 3.md",
     "Bachelor/Pictures/Pasted image 20260827115849.png",
     "Bachelor/Pictures/Pasted image 20260827115830.png",
     "Bachelor/Pictures/Pasted image 20260827115632.png",
     "Bachelor/Pictures/Pasted image 20260827115431.png",
     "Bachelor/Pictures/Pasted image 20260827110504.png",
     "Bachelor/Pictures/Pasted image 20260827110144.png",
-    "T3 (new)/T3_ÜB_02.pdf",
     "Bachelor/Pictures/Pasted image 20260819231630.png"
   ]
 }
