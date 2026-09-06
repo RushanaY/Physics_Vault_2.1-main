@@ -1,0 +1,2 @@
+- made up form mirrors 
+- inside there is a [[gain medium]]  

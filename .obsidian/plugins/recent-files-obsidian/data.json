@@ -1,6 +1,7 @@
 {
   "recentFiles": [
     {
+<<<<<<< HEAD
       "basename": "Chap3",
       "path": "T3 (new)/lecture notes/Chap3.pdf"
     },
@@ -31,6 +32,34 @@
     {
       "basename": "Joris_Bachelor_thesis_OES",
       "path": "Bachelor/Joris_Bachelor_thesis_OES.pdf"
+=======
+      "basename": "Untitled 1",
+      "path": "T3 (new)/Untitled 1.md"
+    },
+    {
+      "basename": "laser pumping",
+      "path": "laser pumping.md"
+    },
+    {
+      "basename": "gain medium",
+      "path": "gain medium.md"
+    },
+    {
+      "basename": "Q factor",
+      "path": "T3 (new)/Q factor.md"
+    },
+    {
+      "basename": "stimulated emission",
+      "path": "stimulated emission.md"
+    },
+    {
+      "basename": "population inversion",
+      "path": "population inversion.md"
+    },
+    {
+      "basename": "optical cavity",
+      "path": "optical cavity.md"
+>>>>>>> 7d3e3d2e0e145b10c8ab1639e5e85408bdcf59c9
     },
     {
       "basename": "Vitaly's newest QED update on the proton puzzle",
@@ -129,10 +158,6 @@
       "path": "Bachelor/microwave cavity data.pdf"
     },
     {
-      "basename": "Q factor",
-      "path": "T3 (new)/Q factor.md"
-    },
-    {
       "basename": "Chap5-2",
       "path": "T3 (new)/lecture notes/Chap5-2.pdf"
     },
@@ -195,10 +220,13 @@
     {
       "basename": "ASCII",
       "path": "Bachelor/ASCII.md"
+<<<<<<< HEAD
     },
     {
       "basename": "A. Winkler Interaction of atomic hydrogen with metal surfaces",
       "path": "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf"
+=======
+>>>>>>> 7d3e3d2e0e145b10c8ab1639e5e85408bdcf59c9
     }
   ],
   "omittedPaths": [],
