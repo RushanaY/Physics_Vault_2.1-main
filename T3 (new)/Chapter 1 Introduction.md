@@ -1,3 +1,4 @@
+[[into cheat sheet from chapter 1]] 
 # 1.1. Theory of E and B fields 
 -> $\vec E (t,\vec x) \text{ and } \vec B (t, \vec x)$
 

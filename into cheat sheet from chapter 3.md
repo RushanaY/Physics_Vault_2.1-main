@@ -1,0 +1,3 @@
+polarization of the dielectricum 
+interaction of dielectricum with external field 
+all used energies in the equality - E_int, E_ext, E_pol ... 
