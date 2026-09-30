@@ -13,6 +13,10 @@
       "path": "Bachelor/Introduction.md"
     },
     {
+      "basename": "Conclusion and outlook",
+      "path": "Bachelor/Conclusion and outlook.md"
+    },
+    {
       "basename": "Bachelor thesis version 0",
       "path": "Bachelor/Bachelor thesis version 0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Understanding the heat loads",
       "path": "Bachelor/Understanding the heat loads.md"
-    },
-    {
-      "basename": "Advanced classical electromagnetism, R.M. Wald",
-      "path": "T3 (new)/Advanced classical electromagnetism, R.M. Wald.pdf"
     }
   ],
   "omittedPaths": [],

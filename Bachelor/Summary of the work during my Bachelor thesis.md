@@ -8,9 +8,10 @@ The goal of this Bachelor thesis was to work on the calorimetric wire detector. 
 
 ## 4.1 Minor changes to the setup (PCB, conversion factor for gauges, GPIB communication)
 
-The minor change that were done on the set up are the professionally made PCB instead of the handmade one. For the measurement devices, the conversion factor of on both Pfeiffer Gauges was set to 2.4, as it is the one for hydrogen. Before both gauges were set for nitogen. This change only impacts the values for pressure that we see, but doesn't change the gas itself. In addition all the measurement devices, Keithley multimeter and HP3478A multimeter, were connected to the computer via GPIB connection, which allowed to have measurements taken almost every second. Also theses devices were all positioned under the table of the set up in order to shield the multimeters from the RF power, whose microwaves caused faulty data points. Before a jump in resistance of about 200mOhm was observed just from turning on the RF power, where as now this effect is reduced to only a couple mOhm jumps. 
+The minor change that were done on the set up are the professionally made PCB instead of the handmade one. For the measurement devices, the conversion factor of on both Pfeiffer Gauges was set to 2.4, as it is the one for hydrogen. Before both gauges were set for nitogen. This change only impacts the values for pressure that we see, but doesn't change the gas itself. In addition all the measurement devices, Keithley multimeter and HP3478A multimeter, were connected to the computer via GPIB connection, which allowed to have measurements taken almost every second. Also theses devices were all positioned under the table of the set up in order to shield the multimeters from the RF power, whose microwaves caused faulty data points. Before a jump in resistance of about 200mOhm was observed just from turning on the RF power, where as now this effect is reduced to only a couple mOhm jumps. In addition the cavity was grounded to the optical table, to maybe work against the free flowing currents inside this metallic construction. 
 
 In addition a small ruler was installed. It allows to track the distance, that the wire is moved along the beam flux. 
+
 
 
 ## 4.2 Big changes in the set up 
