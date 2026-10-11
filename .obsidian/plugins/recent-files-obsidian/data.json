@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Summary of the work during my Bachelor thesis",
-      "path": "Bachelor/Summary of the work during my Bachelor thesis.md"
+      "basename": "Master_Thesis_SD_aftercomments",
+      "path": "Bachelor/Master_Thesis_SD_aftercomments.pdf"
+    },
+    {
+      "basename": "microwave cavity data",
+      "path": "Bachelor/microwave cavity data.pdf"
+    },
+    {
+      "basename": "microwave cavity_paper",
+      "path": "Bachelor/microwave cavity_paper.pdf"
+    },
+    {
+      "basename": "scrap",
+      "path": "scrap.md"
+    },
+    {
+      "basename": "V1 Wire detector - my work -- version 1 (the reworking over the version 0)",
+      "path": "Bachelor/V1 Wire detector - my work -- version 1 (the reworking over the version 0).md"
+    },
+    {
+      "basename": "V1 Introduction -- version 1 (the reworking over the version 0)",
+      "path": "Bachelor/V1 Introduction -- version 1 (the reworking over the version 0).md"
+    },
+    {
+      "basename": "Atomphysik-Skript (1) (1)",
+      "path": "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf"
     },
     {
       "basename": "The wire detector",
@@ -13,28 +37,32 @@
       "path": "Bachelor/Introduction.md"
     },
     {
+      "basename": "Summary of the work during my Bachelor thesis",
+      "path": "Bachelor/Summary of the work during my Bachelor thesis.md"
+    },
+    {
+      "basename": "Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1)",
+      "path": "Bachelor/Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1).pdf"
+    },
+    {
       "basename": "Conclusion and outlook",
       "path": "Bachelor/Conclusion and outlook.md"
     },
     {
-      "basename": "Bachelor thesis version 0",
-      "path": "Bachelor/Bachelor thesis version 0.md"
-    },
-    {
-      "basename": "Master_Thesis_SD_aftercomments",
-      "path": "Bachelor/Master_Thesis_SD_aftercomments.pdf"
-    },
-    {
-      "basename": "All graphs and all measurements",
-      "path": "Bachelor/All graphs and all measurements.md"
+      "basename": "Untitled 2",
+      "path": "Untitled 2.md"
     },
     {
       "basename": "A Two-Coordinate Detector for a Beam",
       "path": "Bachelor/A Two-Coordinate Detector for a Beam.pdf"
     },
     {
-      "basename": "Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1)",
-      "path": "Bachelor/Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1).pdf"
+      "basename": "Bachelor thesis version 0",
+      "path": "Bachelor/Bachelor thesis version 0.md"
+    },
+    {
+      "basename": "All graphs and all measurements",
+      "path": "Bachelor/All graphs and all measurements.md"
     },
     {
       "basename": "Notes Surhabis master thesis 2",
@@ -169,36 +197,8 @@
       "path": "E4 atomic physics (Bloch)/Zeeman effect.md"
     },
     {
-      "basename": "Atomphysik-Skript (1) (1)",
-      "path": "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf"
-    },
-    {
       "basename": "Spherical harmonics function",
       "path": "Spherical harmonics function.md"
-    },
-    {
-      "basename": "vector potential",
-      "path": "T3 (new)/vector potential.md"
-    },
-    {
-      "basename": "T3_ProblemSheet_02_sol",
-      "path": "T3 (new)/homework/T3_ProblemSheet_02_sol.pdf"
-    },
-    {
-      "basename": "Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel",
-      "path": "Bachelor/Physik in unserer Zeit - 2026 - Wirthl - Quantenelektrodynamik  Rekord‐QED‐Test dank gel stem Protonenradius‐R tsel.pdf"
-    },
-    {
-      "basename": "A. Winkler Interaction of atomic hydrogen with metal surfaces",
-      "path": "Bachelor/A. Winkler Interaction of atomic hydrogen with metal surfaces.pdf"
-    },
-    {
-      "basename": "notes for plots",
-      "path": "Bachelor/notes for plots.md"
-    },
-    {
-      "basename": "Understanding the heat loads",
-      "path": "Bachelor/Understanding the heat loads.md"
     }
   ],
   "omittedPaths": [],

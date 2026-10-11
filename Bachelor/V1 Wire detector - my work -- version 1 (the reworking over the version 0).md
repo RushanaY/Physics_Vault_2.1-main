@@ -1,0 +1,44 @@
+ b# 4. Work completed during the thesis 
+The goal of this Bachelor thesis was to work on the calorimetric wire detector. We continued to work on a set up, that was constructed by Surhabi Deshpande during her Master thesis, taking into account her suggestions to improve the detection of atomic hydrogen. In this section there will be the collection of observations and results that were made during the bachelor thesis. 
+
+
+## 4.1 Minor changes to the setup (PCB, conversion factor for gauges, GPIB communication)
+
+The minor change that were done on the set up are the professionally made PCB instead of the handmade one. For the measurement devices, the conversion factor of on both Pfeiffer Gauges was set to 2.4, as it is the one for hydrogen. Before both gauges were set for nitogen. This change only impacts the values for pressure that we see, but doesn't change the gas itself. In addition all the measurement devices, Keithley multimeter and HP3478A multimeter, were connected to the computer via GPIB connection, which allowed to have measurements taken almost every second. Also theses devices were all positioned under the table of the set up in order to shield the multimeters from the RF power, whose microwaves caused faulty data points. Before a jump in resistance of about 200mOhm was observed just from turning on the RF power, where as now this effect is reduced to only a couple mOhm jumps. In addition the cavity was grounded to the optical table, to maybe work against the free flowing currents inside this metallic construction. 
+
+In addition a small ruler was installed. It allows to track the distance, that the wire is moved along the beam flux. 
+
+# 4.2 Big changes in the set up 
+## 4.2.0 Platform for signal normalisation 
+Here I describe the platform that was build in order to have a back wire for normalisation. The back wire in this case is not impacted by the hydrogen beam and the recombination heat. Other than that it is in the same position physically as the front wire, allowing to pinpoint the resistance difference that comes only from the hydrogen beam cooling and recombination heat. In the following text mainly the resistance difference was used. Because the two wires didn't have the exact same initial resistance it is more telling if the resistance difference increases or decreases. In the simulation the equation for the resistance difference was $$\Delta R =\text{FRONT} - \text{BACK} $$
+This means that if the $\Delta R$ decreases, the front wire resistance goes down faster than the back wire one. If the $\Delta R$ increases, that means the front wire goes down slower than the back one. One PCB is attached directly to the moving platform, while the other is attached to the first PCB. The moving platform is powerful enough to lift both wire holders without a problem. Also both PCBs, including all the needed screws, weigh less than 10g, which is way below the limit of what the motor can handle. 
+The picture under this text shows how the platform is connected and also the new PCBs. It is to be noted, that the PCB in the final setup were cut into shape, as they were bigger than the ones before. The final parameters are in the picture under it. 
+![[platform_side.jpg]]
+![[PCB_sketch.jpg]]
+## 4.2.1 Nozzle cooling with Peltier element
+A major part of the setup, that was tried out extensively was the cooling of the nozzle and the exiting hydrogen beam via a Peltier element. Continuing the work of Surabhi, Peltier element is also located on the backside of the nozzle, pressed firmly between the two copper parts, that make up the nozzle and the holder. The idea being, that the nozzle in the main set up is being cooled down to 7K, which will impact the wire heavily at least in two known ways. The first being the radiative cooling $Q_{rad}$ and the second one being the colder hydrogen beam, that will be hitting the wire. In addition to that, previous simulations from Surabhi have shown, that the number of collisions of the hydrogen with the insides of the nozzle is enough to thermalise with it, making the hydrogen beam colder. This will allow for a higher contrast of the atomic recombination signal on the wire. 
+Therefore we considered the case, where the nozzle is much colder than the room temperature. For proper removal of heat from the system, a Peltier element must be equally heavily cooled on the other side from the nozzle. As suggested we tried installing a water cooling system for that cause, where the general water of roughly 17 degree Celsius would be used. On the picture one can see the back side of the nozzle, which is hollow in the middle for the water to flow through. Using the plastic standard Festo connection was proven as unfit for the system, as it disturbed the vacuum. The connection points were not vacuum safe, which is why we attempted to replace them with Swagelok connections. These were soldered to a flexible metal tube in order to fit it through the intricate geometry of the vacuum chamber. In conclusion this didn't work, as it still was the source of a leakage. The reason probably lies in the thin walls of the metal tube, which were barely enough for soldering, that wouldn't burn through the metal. Apparently the walls were too thin and had micro cracks, not visible with the naked eye. 
+![[connection_to _nozzle.jpg]]
+
+In order to still remove the heat form the metal, a fully copper nozzle foot was constructed. This way the heat is able to leave through the copper foot, go into the breadboard and out of the chamber. This allowed to cool the nozzle to a minimum of 270K or 0 .85 degrees Celsius or heat up to 377K if needed. With this setup if was possible to reach again the background pressure levels of $10^{-6}$ mbar as before. 
+![[new_nozzle_2.jpg]]
+
+
+The experimental data showed, that the two wires get impacted differently by the nozzle temperature. From looking at the graphs it can be deduced, that the front wire reacts to the change in temperature faster than the back wire. This is where those "dips "in the graph line of the wire resistance difference come from and also that's why they are so in sync with the temperature increases. Additionally it can it is also significant, that at low temperatures the difference is 0.12 Ohm and at hight ones it is 0.04 Ohms. Not only is the difference on its own interesting, but also it is to be noted, that under stabilized conditions this wire pair would have a 0.1 Ohm difference. 
+Both of the stated observations can come form two factors, the first one being one of the front wire being further away from the nozzle or maybe it experiencing the cooling by the hydrogen beam. Using the simulation and changing the distances even by a millimetre showed on average 0.4 to 0.7mOhms difference in resistance. This is not only outside of what can be measured with our multimeter in reality, but also smaller than what is being observed, which implies that there are other parameters playing into this changing difference in resistance. 
+ The hydrogen beam impact only the front wire, meanwhile the back wire is impacted only indirectly. Even though in this experiment we did not turn on the flow on purpose, because flowmeter wasn't working properly, there is always some residual gas inside the glass tube, which can provide a stable flow over the span of multiple hours. 
+ Running the simulation for the flow of 0, 0.37mlm/min , 1.7mlm/min and the two extreme temperature cases of 270K and 370 K showed some interesting results. For the low temperature the increase from 0 to 0.37mlm/min showed a small 0.002Ohm jump, but the next jump to 1.7mlm/min presented a 0.007Ohm decrease. This shows that if there is too much hydrogen flow, the cooling of it will be strong enough to see the difference between front and back wire. Same for the increase in temperature, but there as expected the front wire gets heated by 0.03 Ohm, which also corresponds with the experimental data. 
+ 
+
+![[Pasted image 20261003111306.png]]![[Pasted image 20261004113314.png]]The main question is whether the cooling of the nozzle makes for better contrast between atomic and molecular hydrogen. At that moment we had the ability to see the measurement run in real time with at least one data point per second. 
+Measuring with the 15 $\mu m$ wire 
+For the 5 $\mu m$ wire the measurement didn't show a significant form. The wire was both moved fast, in the fastest tempo the moving platform allowed, and also in a slow manner, where the wire was stopped after about 1 millimeter of distance. The whole process was 
+
+
+
+
+![[Pasted image 20261005013609.png]]
+
+f![[Pasted image 20261005014539.png]]ggg
+ghh
+![[Pasted image 20261005015947.png]]
