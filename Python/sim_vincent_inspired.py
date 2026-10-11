@@ -6,7 +6,7 @@ import os
 from scipy.signal import find_peaks, peak_prominences
 from scipy.optimize import curve_fit
 from scipy.integrate import solve_bvp
-
+import math
 
 
 

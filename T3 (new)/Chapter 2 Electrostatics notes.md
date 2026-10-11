@@ -1,3 +1,4 @@
+[[into cheat sheet from chapter 2]]  
 flux and charges stationaries 
 stationary fields: $$\frac{\partial \phi}{\partial t} =0, \qquad \frac{\partial \vec A}{\partial t}=0$$
 $$\vec E = - \vec \triangledown \phi - \frac{\partial \vec A}{\partial t} = - \vec \triangledown \phi$$
@@ -33,7 +34,7 @@ Defined a partial differential operator $$\hat O G (\vec x, \vec x') = \delta (\
 -> expanding it to two charged particles 
 -> case of external field (like through another charged particle => [[coloumb law]])
 -> for [[multipol]], quadropol and point charge 
-[[energy density]]
+[[Energy density]]
 [[dipol moment]] 
 use the lorentz force 
 
