@@ -1,0 +1,1 @@
+![[simple cubic 2025-12-19 16.33.05.excalidraw]]
