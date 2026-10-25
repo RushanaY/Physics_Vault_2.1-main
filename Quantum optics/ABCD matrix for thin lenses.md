@@ -1,0 +1,2 @@
+
+$$\begin{pmatrix} A & B \\ C & D \end{pmatrix} = \begin{pmatrix} 1 & 0 \\ - \frac{1}{f} & 1 \end{pmatrix}$$

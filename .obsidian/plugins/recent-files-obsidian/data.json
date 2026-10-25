@@ -1,16 +1,116 @@
 {
   "recentFiles": [
     {
+      "basename": "ZU_23.10_Inequatities, Convergence",
+      "path": "T4(new)/ZU_23.10_Inequatities, Convergence.md"
+    },
+    {
+      "basename": "Exercise class",
+      "path": "T4(new)/Exercise class.md"
+    },
+    {
+      "basename": "Lecture 0",
+      "path": "T4(new)/Lecture 0.md"
+    },
+    {
+      "basename": "RFI radio frequency interferernce",
+      "path": "Bachelor/RFI radio frequency interferernce.md"
+    },
+    {
+      "basename": "Übungsblatt 0 (1)",
+      "path": "M3(new) Deckert/homework/Übungsblatt 0 (1).pdf"
+    },
+    {
+      "basename": "Blatt_01",
+      "path": "T4(new)/homework/Blatt_01.pdf"
+    },
+    {
+      "basename": "complete_scriptum_quantum_optics",
+      "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
+    },
+    {
       "basename": "Lecture 0",
       "path": "Quantum optics/Lecture 0.md"
     },
     {
-      "basename": "solving DEQ for confined ray",
-      "path": "Quantum optics/Pictures/solving DEQ for confined ray.md"
+      "basename": "M3_H1_notes (review of Riemann integral)",
+      "path": "M3(new) Deckert/homework/M3_H1_notes (review of Riemann integral).md"
+    },
+    {
+      "basename": "step function",
+      "path": "step function.md"
+    },
+    {
+      "basename": "laser pumping",
+      "path": "laser pumping.md"
+    },
+    {
+      "basename": "gain medium",
+      "path": "gain medium.md"
+    },
+    {
+      "basename": "Vitaly's newest QED update on the proton puzzle",
+      "path": "Bachelor/Vitaly's newest QED update on the proton puzzle.md"
     },
     {
       "basename": "Notes Surhabis master thesis 2",
       "path": "Bachelor/Notes Surhabis master thesis 2.md"
+    },
+    {
+      "basename": "lecture 0 introduction",
+      "path": "M3(new) Deckert/lecture 0 introduction.md"
+    },
+    {
+      "basename": "lecture 1 Lebesgue integral",
+      "path": "lecture 1 Lebesgue integral.md"
+    },
+    {
+      "basename": "Lecture 0 2026-10-13 14.15.46.excalidraw",
+      "path": "T4(new)/Pictures/Lecture 0 2026-10-13 14.15.46.excalidraw.md"
+    },
+    {
+      "basename": "Notes math",
+      "path": "Math/Notes math.md"
+    },
+    {
+      "basename": "sigma algebra",
+      "path": "sigma algebra.md"
+    },
+    {
+      "basename": "measure theory",
+      "path": "Math/measure theory.md"
+    },
+    {
+      "basename": "Formel sheet of quantum optics",
+      "path": "Formel sheet of quantum optics.md"
+    },
+    {
+      "basename": "curved mirror",
+      "path": "Quantum optics/Pictures/curved mirror.md"
+    },
+    {
+      "basename": "ABCD matrix for a curved mirror",
+      "path": "Quantum optics/ABCD matrix for a curved mirror.md"
+    },
+    {
+      "basename": "thin lens case",
+      "path": "Quantum optics/Pictures/thin lens case.md"
+    },
+    {
+      "basename": "Lecture 0 2026-10-12 08.59.37.excalidraw",
+      "path": "Quantum optics/Pictures/Lecture 0 2026-10-12 08.59.37.excalidraw.md"
+    },
+    {
+      "basename": "ABCD matrix for thin lenses",
+      "path": "Quantum optics/ABCD matrix for thin lenses.md"
+    },
+    {
+      "basename": "ABCD matrix for the free space",
+      "path": "Quantum optics/ABCD matrix for the free space.md"
+    },
+    {
+      "basename": "solving DEQ for confined ray",
+      "path": "Quantum optics/Pictures/solving DEQ for confined ray.md"
     },
     {
       "basename": "resonator or cavity",
@@ -21,28 +121,12 @@
       "path": "Quantum optics/Pictures/multiple components.md"
     },
     {
-      "basename": "curved mirror",
-      "path": "Quantum optics/Pictures/curved mirror.md"
-    },
-    {
       "basename": "flat mirror",
       "path": "Quantum optics/Pictures/flat mirror.md"
     },
     {
-      "basename": "thin lens case",
-      "path": "Quantum optics/Pictures/thin lens case.md"
-    },
-    {
       "basename": "thomad udems physics map",
       "path": "Quantum optics/Pictures/thomad udems physics map.md"
-    },
-    {
-      "basename": "Lecture 0 2026-10-12 08.59.37.excalidraw",
-      "path": "Quantum optics/Pictures/Lecture 0 2026-10-12 08.59.37.excalidraw.md"
-    },
-    {
-      "basename": "laser pumping",
-      "path": "laser pumping.md"
     },
     {
       "basename": "V1 Introduction -- version 1 (the reworking over the version 0)",
@@ -51,10 +135,6 @@
     {
       "basename": "Untitled 1",
       "path": "T3 (new)/Untitled 1.md"
-    },
-    {
-      "basename": "gain medium",
-      "path": "gain medium.md"
     },
     {
       "basename": "Q factor",
@@ -71,10 +151,6 @@
     {
       "basename": "optical cavity",
       "path": "optical cavity.md"
-    },
-    {
-      "basename": "Vitaly's newest QED update on the proton puzzle",
-      "path": "Bachelor/Vitaly's newest QED update on the proton puzzle.md"
     },
     {
       "basename": "standard deviation",
@@ -123,82 +199,6 @@
     {
       "basename": "Microwave cavity (MW)",
       "path": "Bachelor/Microwave cavity (MW).md"
-    },
-    {
-      "basename": "Master_Thesis_SD_aftercomments",
-      "path": "Bachelor/Master_Thesis_SD_aftercomments.pdf"
-    },
-    {
-      "basename": "flow in mln per min",
-      "path": "Bachelor/flow in mln per min.md"
-    },
-    {
-      "basename": "Chap5-5",
-      "path": "T3 (new)/lecture notes/Chap5-5.pdf"
-    },
-    {
-      "basename": "heat capacity",
-      "path": "E6/heat capacity.md"
-    },
-    {
-      "basename": "Advanced classical electromagnetism, R.M. Wald",
-      "path": "T3 (new)/Advanced classical electromagnetism, R.M. Wald.pdf"
-    },
-    {
-      "basename": "Summary_central_exercise",
-      "path": "T3 (new)/lecture notes/Summary_central_exercise.pdf"
-    },
-    {
-      "basename": "Notes from Grinin Paper",
-      "path": "Bachelor/Notes from Grinin Paper.md"
-    },
-    {
-      "basename": "CAVITY TUNING EXPERIMENTS WITH THE JYFL 14 GHz ECRIS ∗",
-      "path": "Bachelor/CAVITY TUNING EXPERIMENTS WITH THE JYFL 14 GHz ECRIS ∗.pdf"
-    },
-    {
-      "basename": "Tscharn-BA-Measurements_on_the_Cryogenic_Hydrogen_Beam",
-      "path": "Bachelor/Tscharn-BA-Measurements_on_the_Cryogenic_Hydrogen_Beam.pdf"
-    },
-    {
-      "basename": "Schumacher-BA-Detector_for_Atomic_Hydrogen_(2019)",
-      "path": "Bachelor/Schumacher-BA-Detector_for_Atomic_Hydrogen_(2019).pdf"
-    },
-    {
-      "basename": "Joris_Bachelor_thesis_OES",
-      "path": "Bachelor/Joris_Bachelor_thesis_OES.pdf"
-    },
-    {
-      "basename": "microwave cavity data",
-      "path": "Bachelor/microwave cavity data.pdf"
-    },
-    {
-      "basename": "Chap5-2",
-      "path": "T3 (new)/lecture notes/Chap5-2.pdf"
-    },
-    {
-      "basename": "Chap5-1",
-      "path": "T3 (new)/lecture notes/Chap5-1.pdf"
-    },
-    {
-      "basename": "magnetron",
-      "path": "Bachelor/magnetron.md"
-    },
-    {
-      "basename": "microwave",
-      "path": "microwave.md"
-    },
-    {
-      "basename": "microwave cavity_paper",
-      "path": "Bachelor/microwave cavity_paper.pdf"
-    },
-    {
-      "basename": "Notes Surabhi Master thesis",
-      "path": "Bachelor/Notes Surabhi Master thesis.md"
-    },
-    {
-      "basename": "hyper fine structure",
-      "path": "E4 atomic physics (Bloch)/hyper fine structure.md"
     }
   ],
   "omittedPaths": [],

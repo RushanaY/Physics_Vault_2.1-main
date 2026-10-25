@@ -1,0 +1,1 @@
+$$\begin{pmatrix} A & B \\ C & D \end{pmatrix} = \begin{pmatrix} 1 & d \\0 & 1 \end{pmatrix}$$
