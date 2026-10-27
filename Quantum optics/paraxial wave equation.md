@@ -1,0 +1,1 @@
+$$\triangledown_t^2 \psi - 2ik \frac{\partial \psi}{\partial z} =0$$ 

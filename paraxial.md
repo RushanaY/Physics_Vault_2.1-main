@@ -1,0 +1,1 @@
+only rays that go close to the optical axis 

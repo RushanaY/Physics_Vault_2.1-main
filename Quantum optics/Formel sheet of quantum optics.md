@@ -7,3 +7,10 @@ what will end up here, are the formulas, that are in a square in the script. The
 
 -----------------
 ![[ABCD matrix for a curved mirror]]
+
+# Chapter 2: Gaussian beam 
+![[paraxial wave equation]]
+
+![[Gaussian beam]]
+
+The angle of the divergence (I think) $$\Theta = \frac{\lambda}{\pi\omega_0}$$

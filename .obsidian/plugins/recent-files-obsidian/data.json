@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "Lecture 27_10",
+      "path": "T4(new)/Lecture 27_10.md"
+    },
+    {
+      "basename": "Lecture 27_10 2026-10-27 20.46.26.excalidraw",
+      "path": "T4(new)/Pictures/Lecture 27_10 2026-10-27 20.46.26.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 27_10 2026-10-27 20.44.24.excalidraw",
+      "path": "T4(new)/Pictures/Lecture 27_10 2026-10-27 20.44.24.excalidraw.md"
+    },
+    {
+      "basename": "adiabatic",
+      "path": "adiabatic.md"
+    },
+    {
+      "basename": "isotherm",
+      "path": "isotherm.md"
+    },
+    {
+      "basename": "isochor",
+      "path": "isochor.md"
+    },
+    {
+      "basename": "isobar",
+      "path": "isobar.md"
+    },
+    {
+      "basename": "internal energy",
+      "path": "E6/internal energy.md"
+    },
+    {
+      "basename": "Boltzmann constant",
+      "path": "E4 atomic physics (Bloch)/Boltzmann constant.md"
+    },
+    {
+      "basename": "stefan Boltzmann constant",
+      "path": "E4 atomic physics (Bloch)/stefan Boltzmann constant.md"
+    },
+    {
+      "basename": "gas constant",
+      "path": "gas constant.md"
+    },
+    {
+      "basename": "avogardo constant",
+      "path": "E4 atomic physics (Bloch)/avogardo constant.md"
+    },
+    {
+      "basename": "mol",
+      "path": "mol.md"
+    },
+    {
+      "basename": "complete_scriptum_quantum_optics",
+      "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
+    },
+    {
+      "basename": "Lecture 1",
+      "path": "Quantum optics/Lecture 1.md"
+    },
+    {
+      "basename": "Hermite polynomial",
+      "path": "Hermite polynomial.md"
+    },
+    {
+      "basename": "Formel sheet of quantum optics",
+      "path": "Quantum optics/Formel sheet of quantum optics.md"
+    },
+    {
+      "basename": "Lecture 1 2026-10-26 12.13.29.excalidraw",
+      "path": "Quantum optics/Pictures/Lecture 1 2026-10-26 12.13.29.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 1 2026-10-26 12.00.59.excalidraw",
+      "path": "Quantum optics/Pictures/Lecture 1 2026-10-26 12.00.59.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 1 2026-10-26 11.53.22.excalidraw",
+      "path": "Quantum optics/Pictures/Lecture 1 2026-10-26 11.53.22.excalidraw.md"
+    },
+    {
+      "basename": "Lecture 1 2026-10-26 11.44.36.excalidraw",
+      "path": "Quantum optics/Pictures/Lecture 1 2026-10-26 11.44.36.excalidraw.md"
+    },
+    {
+      "basename": "Wavefront curvature",
+      "path": "Quantum optics/Wavefront curvature.md"
+    },
+    {
+      "basename": "Gaussian beam",
+      "path": "Quantum optics/Gaussian beam.md"
+    },
+    {
+      "basename": "Rayleigh length",
+      "path": "Quantum optics/Rayleigh length.md"
+    },
+    {
+      "basename": "Beam raduis",
+      "path": "Quantum optics/Beam raduis.md"
+    },
+    {
+      "basename": "paraxial wave equation",
+      "path": "Quantum optics/paraxial wave equation.md"
+    },
+    {
+      "basename": "ABCD matrix for a curved mirror",
+      "path": "Quantum optics/ABCD matrix for a curved mirror.md"
+    },
+    {
+      "basename": "paraxial",
+      "path": "paraxial.md"
+    },
+    {
+      "basename": "Maxwell equations",
+      "path": "T3 (new)/Maxwell equations.md"
+    },
+    {
+      "basename": "Lecture 0",
+      "path": "Quantum optics/Lecture 0.md"
+    },
+    {
+      "basename": "Quantum Optics WS26-27 Sheet 02",
+      "path": "Quantum optics/homework/Quantum Optics WS26-27 Sheet 02.pdf"
+    },
+    {
       "basename": "ZU_23.10_Inequatities, Convergence",
       "path": "T4(new)/ZU_23.10_Inequatities, Convergence.md"
     },
@@ -23,14 +147,6 @@
     {
       "basename": "Blatt_01",
       "path": "T4(new)/homework/Blatt_01.pdf"
-    },
-    {
-      "basename": "complete_scriptum_quantum_optics",
-      "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
-    },
-    {
-      "basename": "Lecture 0",
-      "path": "Quantum optics/Lecture 0.md"
     },
     {
       "basename": "M3_H1_notes (review of Riemann integral)",
@@ -81,124 +197,8 @@
       "path": "Math/measure theory.md"
     },
     {
-      "basename": "Formel sheet of quantum optics",
-      "path": "Formel sheet of quantum optics.md"
-    },
-    {
       "basename": "curved mirror",
       "path": "Quantum optics/Pictures/curved mirror.md"
-    },
-    {
-      "basename": "ABCD matrix for a curved mirror",
-      "path": "Quantum optics/ABCD matrix for a curved mirror.md"
-    },
-    {
-      "basename": "thin lens case",
-      "path": "Quantum optics/Pictures/thin lens case.md"
-    },
-    {
-      "basename": "Lecture 0 2026-10-12 08.59.37.excalidraw",
-      "path": "Quantum optics/Pictures/Lecture 0 2026-10-12 08.59.37.excalidraw.md"
-    },
-    {
-      "basename": "ABCD matrix for thin lenses",
-      "path": "Quantum optics/ABCD matrix for thin lenses.md"
-    },
-    {
-      "basename": "ABCD matrix for the free space",
-      "path": "Quantum optics/ABCD matrix for the free space.md"
-    },
-    {
-      "basename": "solving DEQ for confined ray",
-      "path": "Quantum optics/Pictures/solving DEQ for confined ray.md"
-    },
-    {
-      "basename": "resonator or cavity",
-      "path": "Quantum optics/Pictures/resonator or cavity.md"
-    },
-    {
-      "basename": "multiple components",
-      "path": "Quantum optics/Pictures/multiple components.md"
-    },
-    {
-      "basename": "flat mirror",
-      "path": "Quantum optics/Pictures/flat mirror.md"
-    },
-    {
-      "basename": "thomad udems physics map",
-      "path": "Quantum optics/Pictures/thomad udems physics map.md"
-    },
-    {
-      "basename": "V1 Introduction -- version 1 (the reworking over the version 0)",
-      "path": "Bachelor/V1 Introduction -- version 1 (the reworking over the version 0).md"
-    },
-    {
-      "basename": "Untitled 1",
-      "path": "T3 (new)/Untitled 1.md"
-    },
-    {
-      "basename": "Q factor",
-      "path": "T3 (new)/Q factor.md"
-    },
-    {
-      "basename": "stimulated emission",
-      "path": "stimulated emission.md"
-    },
-    {
-      "basename": "population inversion",
-      "path": "population inversion.md"
-    },
-    {
-      "basename": "optical cavity",
-      "path": "optical cavity.md"
-    },
-    {
-      "basename": "standard deviation",
-      "path": "standard deviation.md"
-    },
-    {
-      "basename": "2020-07_Q1_Designing resonance microwave cavities_IEEE Transactions on Instruments and Measurements",
-      "path": "Bachelor/2020-07_Q1_Designing resonance microwave cavities_IEEE Transactions on Instruments and Measurements.pdf"
-    },
-    {
-      "basename": "Chap2",
-      "path": "T3 (new)/lecture notes/Chap2.pdf"
-    },
-    {
-      "basename": "Problem set 3",
-      "path": "T3 (new)/Problem set 3.md"
-    },
-    {
-      "basename": "Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1)",
-      "path": "Bachelor/Grinin2020 - Two-Photon Frequency Com Spectroscopy of Atomic Hydrogen (1).pdf"
-    },
-    {
-      "basename": "notes for plots",
-      "path": "Bachelor/notes for plots.md"
-    },
-    {
-      "basename": "Understanding the heat loads",
-      "path": "Bachelor/Understanding the heat loads.md"
-    },
-    {
-      "basename": "Bachelor thesis version 0",
-      "path": "Bachelor/Bachelor thesis version 0.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Plan for Bachelor text",
-      "path": "Bachelor/Plan for Bachelor text.md"
-    },
-    {
-      "basename": "T3_ÜB_02",
-      "path": "T3 (new)/T3_ÜB_02.pdf"
-    },
-    {
-      "basename": "Microwave cavity (MW)",
-      "path": "Bachelor/Microwave cavity (MW).md"
     }
   ],
   "omittedPaths": [],

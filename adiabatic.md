@@ -1,0 +1,1 @@
+no temperature exchange, only exchange thruogh mechanical work 

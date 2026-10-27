@@ -93,14 +93,3 @@ Just for the understanding of what saggital and tangential (meridional) means:
 ![[Pasted image 20261021220708.jpg]]
 
 
-# Gaussian beams 
-going from wave equation $$\frac{\partial^n \psi}{\partial t^n} + \alpha \frac{\partial^m \psi}{\partial z^m} =0$$
-
-dispersion relation: $$k(\omega) = \pm i \sqrt[m]{- \frac{(- i \omega)^n}{a}}$$
-phase velocity: $\frac{\omega}{k}$ and group velocity $\frac{\partial \omega}{\partial k}$ 
-
-wave equation with Maxwell equations $$\vec \triangledown^2 \vec E - \frac{n^2}{c^2} \overset{\cdot \cdot} E =0$$
-- paraxial beams: separation of spatial derivatives 
-- times dependence monochromatic : $\vec E \sim e^{+ i \omega t}$ 
-- fixed polarization $\vec E \to E$ 
-- 

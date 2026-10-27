@@ -1,0 +1,1 @@
+$$z_0 = \frac{\pi n \omega_0^2}{\lambda} = \frac{k \omega_0^2}{2}$$
