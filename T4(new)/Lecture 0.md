@@ -1,23 +1,24 @@
-L.Pollet, a newbie, cute 
-zentralubung may be of friday 10-12 
-Inhalt:
-- Schollwock script (all 50 chapters?)
-- probability theory
-- thermodynamics
-- statistical mechanics 
-
 ```table-of-contents
 ```
 
-# Probablity 
-- **Aussage (proposition = "atatement")**  A can true or not true $$\omega(A) = T \qquad \qquad \omega(A) = F$$
-	with T for true and F fro false 
+# Probablities
+Main idea is that we have empirical, non perfect observations, that are used to deduct results. Because the initial facts have an uncertaintly, the resulst can also be done only with a finite certainty. How to esimate those will be looked at in this chapter about probabilities. 
+
+### Proposition  $$\omega(A) = T \qquad \qquad \omega(A) = F$$
+with T for true and F fro false 
 		- we know that something is true or false with a certainty or uncertainty = degree of belief 
 		- set of all propositions = **web of belief** => is a good foundation for descisioin making 
 	(*Bayesian school of thought*)
 - **hypthesis H** -> $\omega(A)$ can be asserted with a degree of uncertainty 
 - **data D** -> facts about empirical observations => $\omega(A) =T$ 
 - **information I** (like the maxwell equations, that also have already a truth value assigned to them) -> accepted theories that always have as a true value 
+
+
+### **Degree of belief**:  $$\mathcal{B} (A|I)$$
+- this is the degree of belief = probability of the proposition $A$ under having the information $I$ 
+	- ![[Axioms for probability]] 
+- ![[Calculus rules for probabilities]] 
+
 
 
 ## types of porbablilites 
@@ -29,29 +30,7 @@ $$\mathcal{P} (D|H)$$
 $$\mathcal{P} (H|D)$$
 -> probability of hypotheiss being true, if data is observed 
 
-## Probability rules
-### positivity
-$$P(A|B) >= 0 \qquad \forall A,B$$
-### Additivity
-$$P(A_1 \lor A_2|B) = P(A_1|B) + P(A_2 |B)$$
-$$\forall A_1, A_2 \space with \space \omega(A_1 \land A_2|B) = F$$
-$F$ means false 
-### Normalization 
-$$P(A \lor \neg A|B)=1$$
-### Product rule 
-$$P(A \lor B|C) = P(A|B\land C) \cdot P(B|C)$$
-
-### sum rule   n
-$$P(A_1 + A_2|B) = P(A_1|B) + P(A_2|B) - P(A_1A_2|B)$$
-where $A_1+A_2 =: A_1 \lor A_2$ and $A_1A_2 =: A_1 \land A_2$ 
-### Marginalization rule 
-$$\mathcal{P}(A|C) = \mathcal{P} (AB|C) + \mathcal{P}(A \neg B|C)$$ 
-==🔵*(Reasoning under uncertainty; going from uncertain facts to some conclusions and being alright with the uncertainty of those; degrees of belief -> how to estimate how much you trust the results from uncertain sources)*==  
-
-### Bayes' theorem 
-$$\mathcal{P}(B|AI) \cdot \mathcal{P}(A|I) = \mathcal{P} (A|BI) \cdot \mathcal{P}(B|I)$$
-with $\mathcal{P}(A|BI) \neq \mathcal{P} (B|AI)$
-
+## [[Probability calculus rues]]
 ### updating probabilities 
 in case when we get new information $I$, that changes the previous assumption and data 
 $$P^{after}(A) = \frac{P(B|AI)}{P(B|I)} \cdot P^{prior} (A)$$

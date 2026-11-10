@@ -1,8 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "complete_scriptum_quantum_optics",
+      "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
+    },
+    {
+      "basename": "Lecture 1",
+      "path": "Quantum optics/Lecture 1.md"
+    },
+    {
+      "basename": "Atomphysik-Skript (1) (1)",
+      "path": "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf"
+    },
+    {
+      "basename": "M3_8",
+      "path": "M3_8.md"
+    },
+    {
       "basename": "Lecture 27_10",
       "path": "T4(new)/Lecture 27_10.md"
+    },
+    {
+      "basename": "Quantum Optics WS26-27 Sheet 02",
+      "path": "Quantum optics/homework/Quantum Optics WS26-27 Sheet 02.pdf"
+    },
+    {
+      "basename": "ZU_23.10_Inequatities, Convergence",
+      "path": "T4(new)/ZU_23.10_Inequatities, Convergence.md"
+    },
+    {
+      "basename": "Lecture 0",
+      "path": "T4(new)/Lecture 0.md"
+    },
+    {
+      "basename": "lecture 1 Lebesgue integral",
+      "path": "lecture 1 Lebesgue integral.md"
+    },
+    {
+      "basename": "lecture 0 introduction",
+      "path": "M3(new) Deckert/lecture 0 introduction.md"
+    },
+    {
+      "basename": "Lecture 0",
+      "path": "Quantum optics/Lecture 0.md"
+    },
+    {
+      "basename": "Probability calculus rues",
+      "path": "Probability calculus rues.md"
+    },
+    {
+      "basename": "Calculus rules for probabilities",
+      "path": "Calculus rules for probabilities.md"
+    },
+    {
+      "basename": "Axioms for probability",
+      "path": "Axioms for probability.md"
+    },
+    {
+      "basename": "Overview over all lectures",
+      "path": "M3(new) Deckert/Overview over all lectures.md"
     },
     {
       "basename": "Lecture 27_10 2026-10-27 20.46.26.excalidraw",
@@ -51,14 +107,6 @@
     {
       "basename": "mol",
       "path": "mol.md"
-    },
-    {
-      "basename": "complete_scriptum_quantum_optics",
-      "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
-    },
-    {
-      "basename": "Lecture 1",
-      "path": "Quantum optics/Lecture 1.md"
     },
     {
       "basename": "Hermite polynomial",
@@ -117,24 +165,8 @@
       "path": "T3 (new)/Maxwell equations.md"
     },
     {
-      "basename": "Lecture 0",
-      "path": "Quantum optics/Lecture 0.md"
-    },
-    {
-      "basename": "Quantum Optics WS26-27 Sheet 02",
-      "path": "Quantum optics/homework/Quantum Optics WS26-27 Sheet 02.pdf"
-    },
-    {
-      "basename": "ZU_23.10_Inequatities, Convergence",
-      "path": "T4(new)/ZU_23.10_Inequatities, Convergence.md"
-    },
-    {
       "basename": "Exercise class",
       "path": "T4(new)/Exercise class.md"
-    },
-    {
-      "basename": "Lecture 0",
-      "path": "T4(new)/Lecture 0.md"
     },
     {
       "basename": "RFI radio frequency interferernce",
@@ -167,38 +199,6 @@
     {
       "basename": "Vitaly's newest QED update on the proton puzzle",
       "path": "Bachelor/Vitaly's newest QED update on the proton puzzle.md"
-    },
-    {
-      "basename": "Notes Surhabis master thesis 2",
-      "path": "Bachelor/Notes Surhabis master thesis 2.md"
-    },
-    {
-      "basename": "lecture 0 introduction",
-      "path": "M3(new) Deckert/lecture 0 introduction.md"
-    },
-    {
-      "basename": "lecture 1 Lebesgue integral",
-      "path": "lecture 1 Lebesgue integral.md"
-    },
-    {
-      "basename": "Lecture 0 2026-10-13 14.15.46.excalidraw",
-      "path": "T4(new)/Pictures/Lecture 0 2026-10-13 14.15.46.excalidraw.md"
-    },
-    {
-      "basename": "Notes math",
-      "path": "Math/Notes math.md"
-    },
-    {
-      "basename": "sigma algebra",
-      "path": "sigma algebra.md"
-    },
-    {
-      "basename": "measure theory",
-      "path": "Math/measure theory.md"
-    },
-    {
-      "basename": "curved mirror",
-      "path": "Quantum optics/Pictures/curved mirror.md"
     }
   ],
   "omittedPaths": [],
