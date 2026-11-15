@@ -1,5 +1,6 @@
 {
   "cssTheme": "Obsidianotion",
   "theme": "moonstone",
-  "accentColor": "#67aae4"
+  "accentColor": "#67aae4",
+  "showRibbon": true
 }

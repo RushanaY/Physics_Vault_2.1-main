@@ -90,6 +90,20 @@
             }
           },
           {
+            "id": "9a8c309cbb686840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XUV /ReadMe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ReadMe"
+            }
+          },
+          {
             "id": "3775102d72549fa8",
             "type": "leaf",
             "state": {
@@ -104,7 +118,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -200,7 +214,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf",
+            "file": "Quantum optics/complete_scriptum_quantum_optics.pdf",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -278,10 +292,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f80c329a30c2a4ff",
+  "active": "4f7d56af9f19c578",
   "lastOpenFiles": [
-    "Quantum optics/Lecture 1.md",
+    "XUV /Manuals",
+    "XUV /Labbook",
+    "XUV ",
     "Quantum optics/complete_scriptum_quantum_optics.pdf",
+    "XUV /ReadMe.md",
+    "Quantum optics/Lecture 1.md",
     "E4 atomic physics (Bloch)/Atomphysik-Skript (1) (1).pdf",
     "M3_8.md",
     "T4(new)/Lecture 27_10.md",
@@ -308,7 +326,6 @@
     "E4 atomic physics (Bloch)/avogardo constant.md",
     "mol.md",
     "Pictures/Pasted image 20261027174517.jpg",
-    "Hermite polynomial.md",
     "Quantum optics/Pictures/Pasted image 20261026114342.jpg",
     "Gaussian beam",
     "Quantum optics/homework/Quantum Optics WS26-27 Sheet 01.pdf",
@@ -316,8 +333,6 @@
     "M3(new) Deckert/homework/Übungsblatt 0 (1).pdf",
     "T4(new)/homework/Blatt_01.pdf",
     "Quantum optics/Pictures/Pasted image 20261021220708.jpg",
-    "T4(new)/homework",
-    "M3(new) Deckert/homework/Übungsblatt 1 (15).pdf",
     "Quantum optics/Pictures/Pasted image 20261016181907.jpg",
     "Quantum optics/Pictures/Pasted image 20261016181838.jpg",
     "Quantum optics/Pictures/Pasted image 20261016181701.jpg",

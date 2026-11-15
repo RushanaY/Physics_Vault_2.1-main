@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ReadMe",
+      "path": "XUV /ReadMe.md"
+    },
+    {
       "basename": "complete_scriptum_quantum_optics",
       "path": "Quantum optics/complete_scriptum_quantum_optics.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "gain medium",
       "path": "gain medium.md"
-    },
-    {
-      "basename": "Vitaly's newest QED update on the proton puzzle",
-      "path": "Bachelor/Vitaly's newest QED update on the proton puzzle.md"
     }
   ],
   "omittedPaths": [],
